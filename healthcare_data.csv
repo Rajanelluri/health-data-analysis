@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,Condition,Department,Treatment,Outcome,AdmissionDate,DischargeDate,Readmitted
+17719542,54,Other,Heart Disease,Neurology,Surgery Y,Deteriorated,2023-09-23,2024-09-23,Yes
+9b44a20c,32,Other,Diabetes,General Medicine,Therapy X,Deteriorated,2023-09-08,2024-11-05,No
+044645af,59,Male,Hypertension,Orthopedics,Medication B,Stable,2024-06-10,2024-12-31,Yes
+8301b4ec,63,Other,COPD,Orthopedics,None,Deteriorated,2024-07-21,2024-12-26,No
+019993ee,32,Female,Hypertension,Orthopedics,None,Deteriorated,2024-02-26,2024-05-23,Yes
+bf3e1b06,48,Male,None,Oncology,Medication A,Improved,2024-05-10,2024-08-28,No
+c3e1ce1f,44,Female,Asthma,General Medicine,None,Stable,2023-07-15,2024-12-31,Yes
+6f519bb3,34,Female,Asthma,Neurology,Surgery Y,Deteriorated,2024-02-18,2024-04-22,Yes
+6d50c9aa,47,Female,None,Orthopedics,Medication B,Stable,2023-05-09,2023-06-04,No
+b814333d,85,Female,COPD,Neurology,None,Deteriorated,2024-01-21,2024-10-11,No
+a6ce0043,66,Female,Hypertension,Cardiology,Medication B,Deteriorated,2023-09-09,2024-07-19,No
+619a760d,20,Other,Heart Disease,General Medicine,Medication B,Stable,2024-10-17,2024-11-12,No
+19475daf,84,Male,Heart Disease,Cardiology,None,Deteriorated,2023-04-11,2024-04-14,Yes
+89c0292c,70,Other,Heart Disease,Orthopedics,None,Deteriorated,2024-06-25,2024-12-24,No
+d3d1b3ab,66,Female,Diabetes,Orthopedics,Therapy X,Stable,2024-11-07,2024-12-10,No
+7ca564ed,30,Female,None,General Medicine,None,Stable,2023-11-12,2024-08-01,No
+243a60fc,38,Male,COPD,Cardiology,Medication B,Deteriorated,2023-09-19,2024-11-15,Yes
+6a9be481,76,Female,Heart Disease,Oncology,Medication A,Deteriorated,2023-07-17,2023-09-22,No
+0e154a62,78,Male,Diabetes,Oncology,Surgery Y,Stable,2024-04-21,2024-05-19,No
+2e4038ed,65,Female,Diabetes,Neurology,Medication B,Stable,2023-08-12,2024-05-26,Yes
+e2f3be7e,36,Other,None,Neurology,None,Deteriorated,2023-01-27,2024-09-28,Yes
+3e2a6d9b,25,Other,Heart Disease,Neurology,Medication A,Deteriorated,2023-01-13,2023-07-11,No
+6ecd9eb2,89,Other,Asthma,General Medicine,Medication B,Improved,2024-05-30,2024-11-27,No
+fcb013c6,82,Other,Hypertension,Neurology,Surgery Y,Improved,2024-12-03,2024-12-27,Yes
+0de5a457,81,Male,Heart Disease,Orthopedics,Medication B,Deteriorated,2024-05-27,2024-07-26,Yes
+75d0aac0,44,Other,Heart Disease,Orthopedics,None,Deteriorated,2024-02-23,2024-11-11,No
+555abaf4,38,Female,None,Cardiology,None,Stable,2025-01-01,2025-02-02,Yes
+27b54a9d,45,Male,COPD,Oncology,None,Stable,2023-12-21,2024-07-18,No
+cb793096,19,Male,Asthma,Neurology,Medication A,Stable,2024-07-01,2024-11-22,Yes
+ef67cf2b,59,Female,Asthma,Orthopedics,Medication B,Improved,2023-08-11,2024-03-17,No
+89c6e28f,57,Other,Diabetes,Neurology,Therapy X,Deteriorated,2024-06-07,2024-07-18,No
+1f7343ac,74,Other,None,General Medicine,Surgery Y,Deteriorated,2024-02-09,2024-09-19,No
+0e14e237,73,Other,COPD,Neurology,Therapy X,Deteriorated,2024-08-22,2024-10-09,Yes
+0a6676a5,54,Male,Diabetes,Oncology,Surgery Y,Stable,2023-07-16,2024-09-04,Yes
+eba5eab5,26,Other,COPD,Neurology,Medication A,Stable,2024-12-11,2025-01-10,No
+69ee4ccb,42,Male,COPD,General Medicine,Medication A,Stable,2023-04-11,2024-04-14,Yes
+08d8f064,57,Female,Heart Disease,Oncology,Surgery Y,Deteriorated,2024-09-03,2024-11-06,No
+a9e69505,84,Male,COPD,Neurology,Therapy X,Stable,2024-04-25,2024-12-13,Yes
+2af70c31,63,Other,Asthma,Neurology,Medication B,Stable,2024-10-31,2024-11-20,Yes
+4c92841b,68,Male,Diabetes,General Medicine,Medication A,Deteriorated,2024-04-24,2024-06-18,Yes
+88e7eb95,46,Male,Heart Disease,Cardiology,Medication B,Deteriorated,2025-01-10,2025-01-13,No
+6d804af3,76,Other,Diabetes,General Medicine,None,Stable,2023-07-16,2024-12-13,No
+501ff6b8,74,Male,Heart Disease,General Medicine,Medication A,Stable,2024-02-01,2025-01-10,No
+c0a32786,44,Other,None,Cardiology,Therapy X,Deteriorated,2023-10-26,2024-12-04,No
+c501aee3,54,Male,Diabetes,Oncology,Medication B,Stable,2023-12-26,2024-11-28,Yes
+505bef9d,86,Other,COPD,General Medicine,Medication A,Stable,2024-06-11,2024-11-07,No
+54c04377,19,Female,COPD,Orthopedics,None,Improved,2023-09-04,2024-06-30,No
+864f6455,51,Male,None,Cardiology,Surgery Y,Improved,2024-07-30,2024-09-04,No
+14e8f208,65,Female,Diabetes,General Medicine,Surgery Y,Deteriorated,2024-11-09,2025-01-28,No
+da29a671,60,Other,COPD,Cardiology,Medication B,Improved,2024-05-17,2024-12-26,No
+af867dac,26,Other,COPD,Oncology,Therapy X,Deteriorated,2024-08-28,2024-10-09,Yes
+0513e0cd,70,Female,Hypertension,General Medicine,Medication A,Stable,2023-03-17,2023-06-14,Yes
+c35305fd,26,Male,Asthma,Neurology,Surgery Y,Improved,2024-04-03,2024-06-30,Yes
+48f54242,49,Female,Hypertension,Neurology,Therapy X,Improved,2024-03-10,2024-06-08,Yes
+8842d0b0,21,Male,Asthma,Neurology,Medication B,Stable,2024-05-08,2024-07-01,No
+c9c6c958,79,Female,Heart Disease,Neurology,Therapy X,Deteriorated,2024-12-25,2025-01-20,No
+98ef88ef,77,Female,Diabetes,Orthopedics,Medication B,Stable,2023-07-07,2023-10-12,No
+168e4104,47,Male,Heart Disease,Orthopedics,Surgery Y,Deteriorated,2024-01-26,2024-09-22,Yes
+0650412a,27,Female,Hypertension,Oncology,Medication A,Stable,2024-03-21,2024-08-22,No
+9a88fe2e,65,Other,COPD,General Medicine,Medication A,Stable,2023-08-30,2024-05-26,No
+0a97af84,68,Female,None,Neurology,Medication A,Deteriorated,2023-04-27,2023-10-14,No
+caf2337f,23,Male,COPD,Oncology,Medication A,Deteriorated,2024-03-30,2024-04-20,No
+2f5626e7,38,Male,Asthma,Cardiology,Medication B,Deteriorated,2024-05-30,2024-06-11,Yes
+ecfc5b9e,89,Male,Diabetes,Cardiology,Medication A,Improved,2023-09-22,2024-10-08,No
+7a6ed25c,18,Female,Diabetes,Neurology,None,Stable,2023-03-26,2023-11-27,Yes
+b6369bea,61,Other,Asthma,Neurology,None,Deteriorated,2024-12-06,2025-01-27,Yes
+8a121c32,44,Male,None,Orthopedics,Therapy X,Stable,2024-11-08,2024-12-22,No
+d6898249,76,Other,None,Oncology,None,Stable,2023-11-17,2024-01-21,No
+389dc93b,36,Other,Heart Disease,Oncology,Therapy X,Stable,2024-04-01,2024-11-10,No
+2e2c7ce3,55,Male,Asthma,Neurology,Therapy X,Stable,2023-12-02,2024-02-14,No
+2ef86ba0,67,Other,Hypertension,Cardiology,Medication B,Improved,2024-10-11,2025-01-12,No
+4fd01f02,36,Male,Diabetes,General Medicine,Medication B,Stable,2024-09-08,2024-11-29,No
+ec5bce4c,58,Male,COPD,General Medicine,Medication B,Stable,2023-08-07,2024-06-25,Yes
+42d915ee,33,Male,COPD,Orthopedics,None,Improved,2024-02-21,2025-01-04,No
+94957a03,45,Male,COPD,Orthopedics,Medication B,Deteriorated,2023-03-06,2023-04-24,No
+ef4f381e,51,Male,Asthma,General Medicine,None,Improved,2023-02-26,2023-08-11,Yes
+6997477d,63,Other,COPD,Cardiology,None,Deteriorated,2024-10-30,2024-12-08,No
+8bd3913e,50,Other,Diabetes,Oncology,Therapy X,Improved,2024-11-11,2024-12-28,Yes
+2a712668,64,Female,Heart Disease,General Medicine,None,Improved,2023-02-22,2024-08-11,No
+33419613,77,Male,Diabetes,Cardiology,Therapy X,Stable,2024-10-26,2024-12-14,No
+d0bb1cd3,82,Male,Diabetes,Neurology,None,Stable,2024-08-06,2024-11-01,Yes
+b012c00f,68,Male,Diabetes,General Medicine,Therapy X,Stable,2023-04-25,2023-09-26,Yes
+d219c253,82,Female,Hypertension,General Medicine,None,Stable,2024-11-05,2025-02-07,Yes
+ab45c103,18,Other,Asthma,Oncology,None,Improved,2023-09-29,2024-06-09,No
+fda34d6a,69,Female,Heart Disease,General Medicine,Medication A,Deteriorated,2024-10-15,2024-12-13,No
+c99cbb81,84,Female,Hypertension,Oncology,Surgery Y,Stable,2024-05-30,2025-01-09,Yes
+7508e2cc,64,Male,Diabetes,Orthopedics,Therapy X,Improved,2023-05-10,2024-10-27,Yes
+f0daa303,62,Other,None,Neurology,Surgery Y,Deteriorated,2023-07-14,2024-02-23,Yes
+89e8316d,46,Male,Diabetes,Cardiology,Therapy X,Improved,2023-03-22,2023-10-12,No
+3308199b,81,Other,Heart Disease,Cardiology,None,Improved,2023-08-23,2024-10-30,No
+ccf94a50,80,Male,Diabetes,Oncology,Therapy X,Improved,2023-06-15,2024-12-19,No
+4791f9c8,28,Male,Heart Disease,General Medicine,Medication B,Deteriorated,2023-09-10,2024-04-28,No
+670980fa,36,Male,None,Oncology,None,Stable,2024-04-30,2024-09-30,Yes
+b827fd4d,81,Other,Asthma,General Medicine,Therapy X,Deteriorated,2023-12-30,2024-04-14,Yes
+30ab644c,60,Male,Diabetes,Cardiology,Medication A,Deteriorated,2023-06-04,2023-07-29,No
+acd7f0b6,55,Other,Heart Disease,General Medicine,Surgery Y,Stable,2024-01-29,2025-01-07,Yes
+f2cb2ab0,69,Female,Hypertension,Cardiology,Surgery Y,Improved,2024-10-21,2024-11-16,No
+2eb45fd5,89,Male,Asthma,Oncology,Therapy X,Deteriorated,2023-02-02,2023-09-18,No
+b82016b3,81,Female,Asthma,Neurology,Surgery Y,Deteriorated,2023-11-13,2024-10-06,Yes
+012faea7,71,Female,COPD,Cardiology,None,Stable,2024-04-05,2024-05-11,Yes
+c925de52,83,Female,COPD,Orthopedics,None,Stable,2023-11-28,2024-03-11,Yes
+865d0ee1,63,Female,Diabetes,Oncology,Therapy X,Stable,2023-11-15,2024-07-31,No
+fe3b83f2,89,Other,None,Oncology,Therapy X,Stable,2023-12-11,2024-02-23,No
+5d2f6a2f,73,Female,Heart Disease,Orthopedics,Medication A,Improved,2023-05-06,2024-06-18,Yes
+0b208ff5,25,Female,None,Orthopedics,Surgery Y,Improved,2023-01-25,2023-01-27,Yes
+d62d0956,79,Female,Hypertension,Oncology,Therapy X,Stable,2023-04-29,2023-07-14,Yes
+c8d6891e,73,Male,Heart Disease,Oncology,Medication B,Improved,2024-04-16,2024-05-28,Yes
+40a08446,74,Female,Heart Disease,General Medicine,None,Deteriorated,2023-07-21,2024-04-20,No
+ae9efdb2,79,Male,None,Oncology,Medication B,Deteriorated,2023-08-14,2023-11-21,No
+5904e23a,21,Male,Diabetes,Cardiology,Medication B,Improved,2023-07-10,2024-02-25,Yes
+3c91f710,41,Other,Hypertension,Cardiology,Medication A,Deteriorated,2025-01-10,2025-02-01,No
+4500a886,40,Male,COPD,Cardiology,Medication B,Deteriorated,2023-08-05,2024-11-29,No
+da18f593,46,Male,Asthma,Oncology,Surgery Y,Improved,2023-11-22,2024-10-27,Yes
+42d04643,22,Male,Asthma,Oncology,Surgery Y,Stable,2024-05-12,2024-09-22,No
+cbf4c90c,29,Female,Asthma,Orthopedics,Therapy X,Deteriorated,2024-08-07,2025-02-05,Yes
+5afd2cda,55,Female,Asthma,Neurology,Medication A,Improved,2023-05-11,2024-08-29,No
+cdeaf069,27,Male,Diabetes,General Medicine,Medication A,Stable,2024-09-04,2024-09-27,No
+c3cbe195,44,Female,None,Orthopedics,None,Stable,2023-12-30,2024-04-24,No
+e7656a06,60,Other,Diabetes,Orthopedics,Medication B,Stable,2024-11-24,2024-12-17,No
+14712965,57,Male,Hypertension,Cardiology,Therapy X,Deteriorated,2024-05-13,2025-02-10,Yes
+a1c49f7e,62,Female,Hypertension,Oncology,Therapy X,Improved,2023-04-05,2023-06-18,No
+bec84813,51,Other,None,Neurology,None,Improved,2023-10-27,2024-07-04,Yes
+a7557ead,51,Male,Hypertension,General Medicine,Medication A,Improved,2023-10-14,2024-02-19,Yes
+89db0139,77,Male,Diabetes,Orthopedics,Surgery Y,Stable,2023-02-14,2024-11-10,Yes
+db59e443,19,Other,Heart Disease,Orthopedics,None,Improved,2023-06-08,2024-09-19,No
+56257522,50,Other,Heart Disease,General Medicine,Therapy X,Improved,2024-02-22,2024-11-01,Yes
+ca32409c,28,Male,COPD,Neurology,Therapy X,Improved,2023-02-12,2023-12-12,Yes
+5f75e6fb,29,Female,None,Orthopedics,Medication B,Stable,2024-12-25,2025-01-18,No
+ee618dc1,43,Female,Heart Disease,General Medicine,Medication A,Improved,2023-05-13,2024-03-31,Yes
+cc735460,55,Male,Heart Disease,Oncology,Therapy X,Stable,2023-02-08,2024-04-27,Yes
+c67e6512,57,Other,Heart Disease,General Medicine,Therapy X,Stable,2023-06-18,2024-06-21,No
+2de7a545,82,Other,Hypertension,Cardiology,Therapy X,Stable,2024-07-02,2024-10-08,No
+76559db7,77,Other,None,Cardiology,Therapy X,Deteriorated,2023-05-11,2024-12-12,Yes
+fa1aab8a,89,Other,Asthma,Oncology,Therapy X,Stable,2023-03-17,2023-08-27,Yes
+7c9410a3,61,Other,Hypertension,Oncology,Medication A,Stable,2023-06-03,2023-11-13,Yes
+983a304c,42,Other,Asthma,Cardiology,Therapy X,Deteriorated,2023-10-28,2024-03-06,No
+6bc94b9a,85,Other,Asthma,Cardiology,None,Improved,2023-07-26,2024-09-15,Yes
+a4c7d619,28,Female,Heart Disease,General Medicine,Surgery Y,Stable,2023-09-29,2023-12-01,Yes
+9.74E+37,18,Female,Hypertension,Oncology,Medication B,Improved,2023-11-20,2024-03-23,Yes
+faf1683d,43,Other,Asthma,General Medicine,Medication A,Improved,2023-09-16,2023-12-18,Yes
+6468731b,59,Other,None,Neurology,Medication B,Improved,2024-02-12,2024-03-29,No
+57830000,69,Male,Diabetes,Oncology,Therapy X,Stable,2024-10-26,2025-02-04,No
+7d229a23,73,Other,None,Neurology,None,Stable,2023-09-29,2024-06-30,No
+90848429,67,Male,Diabetes,Oncology,Therapy X,Improved,2024-01-11,2024-10-10,Yes
+00ae65e6,76,Other,Hypertension,Neurology,None,Improved,2024-11-21,2025-02-06,Yes
+b5705ecf,72,Female,Diabetes,General Medicine,None,Stable,2023-03-21,2023-12-21,Yes
+50ef7c59,34,Male,Asthma,Oncology,Medication B,Deteriorated,2023-04-28,2023-11-11,No
+eff97083,56,Female,Heart Disease,General Medicine,Medication B,Stable,2024-01-18,2024-03-24,No
+f7bfe753,22,Male,Asthma,Oncology,Therapy X,Stable,2023-06-29,2023-12-08,Yes
+e648f975,34,Other,Asthma,Orthopedics,Therapy X,Improved,2023-05-31,2024-04-12,Yes
+4eb97c4b,71,Male,Diabetes,Cardiology,Surgery Y,Improved,2024-04-28,2024-09-06,No
+b04550bb,57,Female,Heart Disease,General Medicine,Therapy X,Stable,2023-04-06,2023-08-25,Yes
+974ceee4,43,Female,COPD,Orthopedics,Medication A,Deteriorated,2024-06-24,2024-12-27,Yes
+586b2d91,75,Male,Hypertension,Oncology,Therapy X,Deteriorated,2024-11-09,2024-12-13,Yes
+bec3c1f5,70,Female,Asthma,Cardiology,Therapy X,Improved,2024-09-24,2024-12-15,No
+c1d3fadc,57,Male,Asthma,General Medicine,Medication A,Stable,2023-04-23,2024-03-01,No
+31d8324d,25,Female,Heart Disease,Neurology,Medication A,Stable,2024-07-06,2024-11-20,No
+c4fe04db,18,Female,COPD,Cardiology,Therapy X,Stable,2024-04-03,2024-10-11,Yes
+e30e353a,40,Female,COPD,General Medicine,Therapy X,Stable,2024-11-30,2025-01-15,No
+41785fee,23,Other,COPD,Cardiology,Therapy X,Deteriorated,2024-11-03,2025-01-23,No
+bc282c18,90,Female,COPD,Neurology,None,Improved,2024-02-28,2024-10-01,Yes
+1783b176,60,Male,Diabetes,General Medicine,Medication B,Stable,2024-02-25,2024-11-04,Yes
+173e86ac,43,Female,Heart Disease,Oncology,Medication B,Improved,2024-04-07,2024-10-20,Yes
+eca07f11,75,Female,Asthma,Orthopedics,None,Improved,2024-11-17,2025-01-16,No
+d933724c,40,Female,Hypertension,Neurology,Medication A,Stable,2024-03-24,2024-07-03,No
+01bde739,67,Male,Hypertension,Oncology,Medication B,Improved,2023-08-25,2024-04-24,Yes
+5aa75111,52,Male,COPD,General Medicine,Medication B,Improved,2024-07-27,2024-10-15,Yes
+4232c71a,27,Other,Diabetes,Oncology,None,Improved,2024-09-14,2024-12-16,No
+aed346b6,26,Other,COPD,Cardiology,Medication B,Improved,2024-12-11,2025-02-07,No
+5c087a9e,54,Female,Diabetes,Neurology,Therapy X,Deteriorated,2024-04-04,2024-10-16,Yes
+36f713e0,43,Male,Hypertension,Oncology,None,Improved,2023-01-27,2023-03-20,Yes
+5e99ed24,44,Other,Diabetes,General Medicine,Medication B,Deteriorated,2024-02-01,2024-11-08,No
+27d8a37f,66,Other,Diabetes,Oncology,Therapy X,Improved,2023-01-14,2024-10-27,Yes
+4a544e68,62,Male,Hypertension,Orthopedics,None,Deteriorated,2024-10-01,2024-11-16,No
+ac037d4e,70,Male,COPD,Cardiology,Therapy X,Improved,2023-12-29,2024-04-25,No
+414e5218,71,Other,Hypertension,General Medicine,Medication B,Deteriorated,2023-02-25,2024-06-30,No
+97048fc5,22,Male,Diabetes,Cardiology,None,Improved,2023-06-09,2024-04-15,Yes
+69ea7a3b,44,Female,None,Orthopedics,Therapy X,Deteriorated,2023-09-06,2024-02-27,No
+b7b7a4fb,48,Female,COPD,Orthopedics,Surgery Y,Improved,2024-02-21,2024-09-01,Yes
+76e7eaa7,36,Female,Hypertension,Neurology,None,Stable,2023-08-30,2025-02-04,No
+2ae030ab,70,Female,Asthma,Cardiology,Medication B,Deteriorated,2023-06-26,2024-03-25,Yes
+c74ff5ad,72,Other,COPD,Orthopedics,Therapy X,Stable,2024-12-16,2024-12-26,Yes
+bbda17b1,79,Other,None,Neurology,None,Stable,2024-10-15,2024-12-13,Yes
+8229d1b7,20,Other,Asthma,Orthopedics,None,Deteriorated,2025-01-07,2025-01-16,No
+b7aa405d,87,Male,COPD,General Medicine,Medication A,Deteriorated,2023-09-01,2023-09-09,No
+c4e1dc4c,50,Other,COPD,Orthopedics,Medication B,Deteriorated,2023-03-28,2023-10-04,Yes
+f19a68f8,69,Other,None,Cardiology,Surgery Y,Deteriorated,2024-08-12,2024-12-15,No
+96a19fa8,71,Female,COPD,Orthopedics,Therapy X,Deteriorated,2023-12-07,2024-09-25,No
+354041c0,30,Female,Diabetes,Cardiology,Medication B,Deteriorated,2023-11-14,2024-02-14,Yes
+b3b6db06,23,Male,None,Orthopedics,Medication B,Improved,2024-05-20,2024-12-18,Yes
+cb9b51e5,53,Male,Hypertension,General Medicine,Therapy X,Deteriorated,2024-11-30,2025-01-15,No
+8b57f060,33,Female,None,Oncology,Medication A,Improved,2024-05-26,2024-11-15,Yes
+110093ed,38,Female,COPD,Neurology,Therapy X,Improved,2023-12-19,2024-01-26,Yes
+ef0e9543,27,Female,Diabetes,Orthopedics,Surgery Y,Stable,2023-02-01,2024-09-08,Yes
+7bb6d144,76,Male,None,Oncology,Therapy X,Improved,2023-03-03,2023-04-11,No
+b631edac,19,Female,Hypertension,Cardiology,Medication B,Stable,2024-10-16,2024-11-06,Yes
+d7c929e2,77,Female,None,Orthopedics,Medication B,Stable,2024-08-26,2024-12-09,Yes
+160015c1,48,Other,Diabetes,Orthopedics,Medication B,Stable,2024-03-23,2024-08-27,Yes
+1ee31490,72,Female,None,General Medicine,None,Stable,2023-03-25,2024-03-20,Yes
+a7812fc3,53,Male,Diabetes,General Medicine,Medication A,Stable,2023-11-22,2023-12-20,Yes
+f7d25c03,35,Female,Diabetes,Cardiology,None,Improved,2023-09-16,2023-10-13,Yes
+96d7f033,90,Other,Hypertension,General Medicine,Medication B,Deteriorated,2024-06-20,2025-02-07,Yes
+d924eda3,44,Other,Heart Disease,Orthopedics,None,Improved,2024-05-10,2024-11-19,No
+fbbc3f50,18,Male,Asthma,Neurology,Surgery Y,Improved,2024-11-29,2025-01-28,Yes
+85a0bd8d,84,Other,Hypertension,Neurology,None,Deteriorated,2023-09-01,2023-10-08,No
+34522915,37,Female,Heart Disease,Neurology,Medication B,Stable,2023-02-09,2023-12-13,Yes
+f3321129,36,Male,COPD,Oncology,Surgery Y,Improved,2024-06-07,2024-09-21,Yes
+69126634,84,Female,COPD,General Medicine,Medication B,Deteriorated,2023-04-14,2024-03-25,Yes
+d9eee6ff,54,Other,Asthma,Orthopedics,Therapy X,Stable,2023-03-25,2024-12-18,Yes
+2d5c743a,86,Other,None,Orthopedics,Therapy X,Deteriorated,2023-02-02,2023-07-06,Yes
+1834ee4f,86,Male,Hypertension,Oncology,Surgery Y,Improved,2024-10-05,2024-11-25,No
+a4c94fad,85,Other,COPD,General Medicine,Surgery Y,Improved,2023-09-12,2024-12-06,Yes
+016f20c1,51,Male,None,General Medicine,Therapy X,Deteriorated,2023-12-01,2024-02-21,Yes
+2536345e,73,Male,Asthma,Neurology,Medication B,Improved,2023-08-29,2024-05-11,Yes
+231603b7,57,Other,COPD,Orthopedics,Medication A,Deteriorated,2023-03-19,2023-06-30,No
+17980ea6,85,Female,Hypertension,Cardiology,Medication A,Improved,2024-08-22,2024-08-29,Yes
+5c7b9ae1,67,Other,None,Oncology,Surgery Y,Stable,2023-08-16,2024-04-18,No
+b8ef1f45,73,Male,Hypertension,Orthopedics,Therapy X,Improved,2023-03-11,2023-06-26,No
+2e1ea51f,70,Female,None,Orthopedics,Therapy X,Improved,2024-04-22,2024-08-02,Yes
+875d9dc2,61,Other,Heart Disease,General Medicine,Surgery Y,Improved,2023-04-15,2024-04-12,No
+fa61ee86,75,Female,Heart Disease,Oncology,Medication B,Stable,2023-07-01,2023-07-14,No
+b1d2b4b4,58,Other,Asthma,Cardiology,Medication A,Improved,2024-02-18,2024-12-31,Yes
+770d52a5,65,Male,Asthma,Orthopedics,None,Improved,2023-08-28,2024-10-12,No
+5a2e711f,29,Other,Diabetes,Oncology,Medication B,Improved,2025-01-09,2025-01-20,No
+58cebc3f,62,Male,Diabetes,Orthopedics,Medication B,Improved,2024-05-31,2025-01-21,No
+cb0690ab,76,Male,COPD,General Medicine,Therapy X,Stable,2024-11-23,2025-01-28,No
+16b9ff30,69,Other,Hypertension,Oncology,Medication A,Improved,2023-08-23,2023-09-10,Yes
+65772c4b,68,Other,Diabetes,Orthopedics,Medication B,Stable,2024-12-11,2025-01-30,Yes
+7b1e9e48,57,Female,None,Orthopedics,None,Improved,2023-11-04,2024-07-25,Yes
+5d2fc8a4,39,Female,None,Neurology,Therapy X,Stable,2024-06-09,2024-06-12,No
+7e907962,70,Other,Hypertension,Orthopedics,Therapy X,Deteriorated,2024-11-26,2025-02-06,Yes
+49472d5b,62,Male,Hypertension,Oncology,Medication B,Improved,2024-06-18,2024-08-03,No
+b698e30d,56,Female,None,Neurology,Medication B,Stable,2023-11-05,2024-06-10,No
+ee91fe16,45,Other,Asthma,Cardiology,Medication B,Improved,2024-12-01,2025-01-03,No
+41a73f43,30,Male,Diabetes,General Medicine,Medication A,Stable,2023-04-18,2024-02-29,Yes
+65692551,81,Other,Hypertension,Cardiology,Surgery Y,Deteriorated,2024-05-23,2024-12-31,No
+c1a7f846,80,Other,Hypertension,Oncology,None,Deteriorated,2024-12-23,2025-01-01,Yes
+25dbbe6b,89,Male,Heart Disease,Oncology,None,Deteriorated,2023-12-26,2024-06-25,Yes
+6133de3d,75,Female,Heart Disease,Neurology,Therapy X,Stable,2023-12-13,2024-08-19,No
+fe67a937,30,Female,Diabetes,Oncology,Therapy X,Improved,2024-05-22,2024-10-09,Yes
+a07d30b1,34,Female,Heart Disease,Neurology,Medication A,Deteriorated,2023-03-18,2024-08-07,Yes
+2a73669a,51,Other,Asthma,General Medicine,Therapy X,Stable,2024-10-29,2025-02-01,Yes
+02e8a57c,27,Female,None,Orthopedics,Medication B,Deteriorated,2023-01-17,2023-02-09,Yes
+3fa32d29,23,Female,Diabetes,Orthopedics,Medication A,Stable,2023-01-12,2023-05-13,Yes
+d4bfa6b2,22,Male,Asthma,Cardiology,Therapy X,Stable,2024-04-10,2024-10-15,Yes
+fd679695,57,Male,None,Neurology,Medication A,Deteriorated,2023-08-14,2024-08-18,No
+f4e0cda5,87,Female,None,Cardiology,None,Improved,2023-07-07,2023-12-18,No
+7301ea89,56,Other,Asthma,Oncology,None,Deteriorated,2023-03-26,2023-07-19,No
+d0c26036,52,Male,Hypertension,Cardiology,Medication B,Improved,2024-01-18,2024-08-13,Yes
+7062f788,90,Female,Diabetes,Orthopedics,None,Stable,2023-01-21,2023-08-31,No
+b1999b40,76,Female,Diabetes,Oncology,Therapy X,Stable,2023-08-17,2024-11-12,No
+2fbca673,57,Male,Heart Disease,Neurology,None,Deteriorated,2024-01-07,2024-04-11,No
+f4e1930f,66,Other,None,Orthopedics,Medication B,Deteriorated,2024-04-04,2024-08-25,No
+bbeb8ab6,25,Female,Diabetes,Neurology,Therapy X,Deteriorated,2024-05-29,2024-11-16,Yes
+d347cee1,37,Male,COPD,General Medicine,Medication A,Stable,2023-07-02,2024-08-31,No
+8be5e559,90,Female,Heart Disease,Neurology,Medication A,Stable,2023-11-11,2024-07-04,No
+b2aa7ff6,67,Female,Diabetes,Neurology,Medication A,Improved,2023-07-20,2024-04-25,No
+991b58e7,30,Other,COPD,Cardiology,Medication B,Improved,2024-10-15,2024-11-30,No
+4fdcd590,39,Female,Asthma,Cardiology,None,Stable,2024-04-03,2024-10-16,Yes
+0e64d7a7,77,Other,Heart Disease,Oncology,Surgery Y,Stable,2023-05-15,2024-11-21,Yes
+c8886ebf,27,Other,Diabetes,Neurology,Medication B,Improved,2024-05-27,2024-07-04,Yes
+0a87183d,20,Other,COPD,Oncology,Therapy X,Improved,2024-08-23,2024-10-04,No
+0de58653,47,Female,COPD,General Medicine,Medication B,Improved,2023-05-29,2023-12-09,No
+b7b9666b,54,Other,COPD,Cardiology,Medication A,Stable,2023-01-18,2023-11-07,Yes
+61f6e25d,84,Male,COPD,Neurology,None,Deteriorated,2025-01-06,2025-02-10,Yes
+ec33a3ed,61,Other,COPD,Neurology,Therapy X,Improved,2023-01-24,2023-03-15,Yes
+04b3bd00,38,Female,Heart Disease,Oncology,Surgery Y,Improved,2024-04-14,2024-08-31,No
+b50b4369,35,Other,Hypertension,Oncology,Medication A,Improved,2024-08-08,2025-02-02,No
+57d5ee1b,42,Male,Heart Disease,Cardiology,Surgery Y,Stable,2024-09-13,2024-09-30,No
+e1c0bddc,76,Male,COPD,Orthopedics,Medication B,Improved,2024-04-28,2024-06-20,Yes
+21177054,47,Other,None,General Medicine,None,Improved,2023-06-24,2024-02-17,No
+6b027062,42,Other,Heart Disease,Oncology,None,Improved,2024-05-07,2025-02-09,No
+0b71c345,32,Female,Asthma,General Medicine,Medication B,Deteriorated,2024-09-17,2024-11-03,No
+aa0d8262,82,Other,Diabetes,Orthopedics,Medication B,Deteriorated,2023-08-04,2024-08-05,Yes
+35453ab1,30,Male,None,Orthopedics,Surgery Y,Deteriorated,2024-03-15,2024-06-05,Yes
+a97ecd52,73,Female,Diabetes,Cardiology,Medication B,Deteriorated,2024-06-09,2024-10-21,Yes
+1d1b4901,53,Other,Diabetes,Orthopedics,Surgery Y,Deteriorated,2024-04-05,2024-08-25,Yes
+adb75d94,55,Female,Heart Disease,Neurology,Medication B,Stable,2023-12-20,2024-03-25,Yes
+a59726d3,76,Male,Diabetes,Oncology,Surgery Y,Stable,2023-08-22,2024-12-29,No
+0bd3cfd1,51,Other,Asthma,Oncology,None,Stable,2024-02-17,2025-01-06,Yes
+8869b684,61,Female,None,Orthopedics,Surgery Y,Improved,2024-05-09,2024-06-14,Yes
+a98520e5,24,Female,Diabetes,General Medicine,Medication A,Improved,2024-10-29,2024-12-27,No
+684761db,35,Female,Diabetes,Orthopedics,Medication B,Improved,2024-09-27,2024-12-31,Yes
+052fb7f5,26,Female,Diabetes,Oncology,Surgery Y,Deteriorated,2023-12-27,2024-12-21,No
+debf29cb,52,Female,COPD,General Medicine,Therapy X,Improved,2023-03-23,2024-08-23,No
+6ef7e343,33,Female,None,Orthopedics,Therapy X,Deteriorated,2024-02-09,2024-07-30,Yes
+60c78f35,61,Female,Asthma,Oncology,Therapy X,Deteriorated,2023-11-16,2024-03-02,Yes
+5659b0ce,58,Female,COPD,Cardiology,Therapy X,Deteriorated,2023-06-05,2024-12-08,Yes
+d0665684,90,Male,None,Neurology,Medication A,Stable,2024-08-12,2024-12-29,Yes
+b7c12b05,42,Male,Diabetes,Oncology,None,Stable,2023-10-04,2024-10-13,No
+1aca8c2e,53,Female,Heart Disease,Cardiology,Therapy X,Stable,2024-10-10,2024-11-03,Yes
+2fa4ff56,83,Male,Asthma,Cardiology,Medication A,Deteriorated,2023-08-08,2024-11-12,No
+93dfe302,25,Female,Asthma,Neurology,Surgery Y,Deteriorated,2024-03-02,2025-02-05,No
+61f08301,39,Other,Asthma,Cardiology,Medication B,Improved,2023-08-03,2023-08-10,Yes
+27133562,40,Male,COPD,Cardiology,Medication A,Stable,2024-08-14,2025-01-30,No
+9be0d969,69,Other,Asthma,Cardiology,Medication B,Stable,2024-01-22,2024-03-20,Yes
+d88db2ec,25,Male,Hypertension,General Medicine,None,Deteriorated,2023-12-18,2024-11-05,Yes
+857f242c,62,Female,None,Cardiology,Medication A,Deteriorated,2024-08-17,2024-12-11,Yes
+b0a0afad,68,Other,Diabetes,Neurology,Medication B,Improved,2024-01-12,2024-06-28,No
+3890910b,33,Female,Heart Disease,Neurology,Medication B,Deteriorated,2023-12-22,2024-08-02,Yes
+b949aa2f,60,Other,COPD,General Medicine,Surgery Y,Stable,2023-01-23,2023-11-26,No
+ebb75b6b,61,Female,Diabetes,Cardiology,Therapy X,Stable,2023-06-16,2024-02-18,Yes
+bbdfbaca,75,Other,Heart Disease,Neurology,Surgery Y,Deteriorated,2023-07-27,2024-10-07,Yes
+fc629e37,30,Female,Diabetes,Neurology,None,Deteriorated,2023-01-17,2023-12-01,Yes
+2935f630,18,Other,Diabetes,General Medicine,Medication B,Improved,2023-05-17,2023-07-11,No
+f3c10389,46,Female,Diabetes,Cardiology,Medication A,Improved,2023-03-08,2024-12-26,No
+15224a2c,74,Female,Diabetes,Oncology,Therapy X,Stable,2023-04-16,2023-12-31,No
+f0ea715f,42,Female,Diabetes,Cardiology,None,Improved,2024-08-21,2025-01-20,Yes
+43dfde52,26,Other,Hypertension,Oncology,Medication A,Improved,2024-01-13,2024-10-27,Yes
+4e9f8ddc,46,Male,COPD,Neurology,None,Deteriorated,2023-11-03,2024-11-02,Yes
+ff281e03,33,Female,Diabetes,General Medicine,Medication A,Improved,2024-03-19,2024-08-28,Yes
+4166544f,61,Other,Heart Disease,General Medicine,Surgery Y,Deteriorated,2023-03-01,2024-03-26,No
+f80b54e3,83,Female,Asthma,General Medicine,Medication A,Stable,2024-08-14,2024-11-01,No
+e95b2385,67,Female,COPD,Orthopedics,None,Improved,2023-05-21,2023-10-14,Yes
+fb50f0a3,25,Female,Hypertension,Cardiology,Surgery Y,Improved,2024-01-09,2024-12-27,Yes
+a1fcab23,69,Male,Heart Disease,Oncology,Surgery Y,Stable,2024-05-24,2024-10-30,No
+7106e5da,69,Male,None,General Medicine,Medication A,Deteriorated,2024-02-26,2024-03-30,No
+e15d6950,90,Male,Hypertension,Orthopedics,None,Stable,2023-10-20,2024-08-02,Yes
+fe35b42a,28,Female,Diabetes,Neurology,Therapy X,Improved,2024-12-19,2025-01-21,Yes
+53a7b0c2,60,Other,Diabetes,Orthopedics,None,Stable,2024-04-20,2024-07-16,No
+39b77277,89,Other,Hypertension,Neurology,Medication B,Stable,2024-12-30,2025-01-19,No
+1.39E+92,80,Female,Asthma,Orthopedics,None,Improved,2023-03-23,2023-04-27,No
+68a9df2d,82,Male,Heart Disease,Oncology,None,Stable,2024-12-25,2025-02-05,Yes
+1fdd9d9f,74,Female,Heart Disease,Oncology,None,Deteriorated,2023-10-06,2023-11-11,Yes
+4e3f78f0,86,Other,Heart Disease,Orthopedics,Surgery Y,Deteriorated,2023-02-06,2024-07-04,No
+ba2f3b58,55,Female,Diabetes,Orthopedics,Surgery Y,Improved,2024-02-17,2024-04-11,Yes
+abf83185,18,Other,Heart Disease,Neurology,Surgery Y,Deteriorated,2024-07-24,2024-11-14,Yes
+56609142,50,Male,Hypertension,Cardiology,Therapy X,Improved,2023-04-06,2024-10-13,No
+1d3c78d3,57,Female,Asthma,Cardiology,Medication A,Improved,2024-09-08,2024-10-15,Yes
+1b71f198,46,Male,Asthma,Cardiology,Medication B,Deteriorated,2023-06-24,2024-12-15,No
+14a1f190,76,Other,Heart Disease,General Medicine,None,Stable,2024-12-13,2025-01-17,Yes
+1763a521,87,Other,Diabetes,Cardiology,None,Deteriorated,2023-07-11,2023-09-24,No
+06218e1a,24,Female,COPD,Cardiology,Medication A,Stable,2024-11-05,2024-11-15,Yes
+6510af36,36,Other,COPD,Neurology,Medication A,Deteriorated,2024-10-21,2024-10-23,Yes
+ceaa3165,26,Other,COPD,General Medicine,Medication B,Deteriorated,2023-11-24,2024-12-05,No
+c7d7b2aa,29,Male,Diabetes,Cardiology,Therapy X,Improved,2023-06-21,2025-01-08,No
+0fe0423a,67,Male,Asthma,Orthopedics,Therapy X,Stable,2024-03-05,2024-04-03,No
+0e1a4289,30,Other,Diabetes,Orthopedics,Medication B,Improved,2023-02-20,2023-03-23,No
+c4a02bdc,87,Female,Asthma,Neurology,Medication A,Improved,2023-05-17,2024-05-30,No
+8d0fc83c,47,Female,COPD,Neurology,Medication A,Deteriorated,2023-03-12,2023-11-14,No
+6e21d89b,20,Female,COPD,Cardiology,None,Stable,2024-05-14,2024-09-27,No
+3da1004c,88,Male,None,Neurology,Medication A,Deteriorated,2024-03-30,2025-02-10,No
+57116061,85,Other,COPD,Orthopedics,Medication B,Deteriorated,2023-02-22,2023-05-27,Yes
+19cdcf85,23,Female,COPD,Neurology,Medication A,Stable,2024-02-29,2024-12-04,No
+666ff22d,69,Other,Heart Disease,Neurology,None,Stable,2023-06-03,2023-11-24,Yes
+19d55857,54,Male,Diabetes,Oncology,Medication B,Improved,2023-10-29,2023-11-24,No
+48f7b3db,45,Female,None,Neurology,Surgery Y,Stable,2023-09-23,2024-10-15,Yes
+13400efb,35,Male,COPD,Orthopedics,Surgery Y,Stable,2024-09-07,2025-01-26,Yes
+d1835a1b,19,Other,Hypertension,Cardiology,Medication A,Deteriorated,2023-07-03,2024-07-03,Yes
+47c32e4c,22,Male,Heart Disease,General Medicine,Medication B,Improved,2024-08-19,2024-11-16,No
+e158c1e9,40,Male,Hypertension,Oncology,Therapy X,Deteriorated,2024-03-01,2024-12-22,Yes
+1d377800,20,Other,COPD,Cardiology,Medication B,Stable,2024-09-25,2025-02-05,No
+2786a534,73,Other,Hypertension,Neurology,Medication B,Stable,2024-04-16,2024-08-19,No
+1f22c465,52,Male,Asthma,General Medicine,None,Stable,2023-07-24,2025-01-11,No
+92e8f3fc,77,Female,Heart Disease,Oncology,Therapy X,Improved,2023-04-19,2024-10-04,No
+5bc4d668,81,Female,Diabetes,Cardiology,Medication A,Improved,2024-06-20,2025-01-03,Yes
+558f5169,32,Male,COPD,Oncology,Therapy X,Improved,2024-12-02,2024-12-25,Yes
+cbc980e3,79,Female,Heart Disease,General Medicine,Therapy X,Deteriorated,2023-01-20,2023-11-22,No
+52a49812,33,Other,None,General Medicine,None,Deteriorated,2023-06-26,2024-06-17,No
+5f0e167f,60,Other,COPD,General Medicine,Surgery Y,Deteriorated,2023-03-07,2023-08-30,No
+7df095f7,65,Female,Heart Disease,Oncology,Therapy X,Deteriorated,2024-11-06,2024-11-08,Yes
+177c417a,20,Male,Diabetes,General Medicine,None,Deteriorated,2023-09-26,2024-09-15,No
+7e8791cd,79,Other,None,Cardiology,Medication A,Deteriorated,2024-10-20,2024-12-07,Yes
+42078670,31,Other,Diabetes,General Medicine,Medication B,Deteriorated,2023-11-07,2024-05-06,Yes
+fd543713,55,Female,None,Cardiology,Therapy X,Stable,2024-08-04,2024-10-06,Yes
+1c965bca,75,Other,Hypertension,Cardiology,Surgery Y,Stable,2023-03-26,2024-06-12,No
+f85c9e3c,87,Male,Heart Disease,General Medicine,Medication B,Improved,2024-10-22,2025-01-06,No
+2ec86e2f,57,Male,Diabetes,Cardiology,Medication B,Stable,2023-07-26,2023-08-03,No
+f542890c,62,Female,Hypertension,Cardiology,Medication B,Stable,2024-10-04,2024-10-23,Yes
+2ee425e2,58,Other,Hypertension,General Medicine,None,Deteriorated,2024-10-25,2024-11-23,Yes
+cb21bed0,40,Male,Heart Disease,General Medicine,Medication A,Improved,2023-01-15,2024-06-08,No
+b10f9819,46,Other,None,General Medicine,Therapy X,Stable,2023-08-18,2024-06-28,No
+542493b3,39,Other,Heart Disease,General Medicine,None,Improved,2023-04-06,2023-05-26,No
+45d34e65,39,Other,Asthma,Neurology,Medication A,Improved,2024-08-30,2024-10-08,Yes
+f6b671ed,29,Other,Heart Disease,Orthopedics,Medication A,Stable,2023-02-20,2023-11-08,No
+451d659d,67,Other,Diabetes,Neurology,Surgery Y,Improved,2023-05-12,2023-11-18,No
+76129bed,41,Female,Hypertension,Oncology,Medication A,Stable,2024-02-06,2024-09-02,Yes
+21cbd4d1,75,Male,None,Oncology,Medication A,Deteriorated,2024-08-15,2024-12-14,Yes
+145d269b,86,Other,None,General Medicine,Therapy X,Stable,2024-01-03,2024-10-01,No
+e95914e7,42,Other,Asthma,Orthopedics,None,Improved,2023-07-20,2023-11-12,Yes
+ed942037,32,Other,Diabetes,General Medicine,Medication B,Deteriorated,2024-04-17,2024-10-30,Yes
+abac524a,56,Male,Heart Disease,General Medicine,Medication B,Improved,2023-10-08,2023-12-25,Yes
+aa28c6a0,25,Female,Heart Disease,Orthopedics,Medication A,Stable,2024-03-22,2024-04-10,No
+46b7a85c,67,Male,Hypertension,Oncology,Surgery Y,Stable,2024-04-07,2024-07-23,No
+1b41c742,55,Other,COPD,Oncology,Medication A,Improved,2024-02-25,2024-09-09,No
+2f859f17,45,Other,None,Cardiology,Medication A,Stable,2023-11-21,2024-09-03,No
+94d08396,38,Female,COPD,Neurology,Medication B,Improved,2025-01-04,2025-01-09,No
+7f615daa,90,Other,Heart Disease,General Medicine,Medication B,Deteriorated,2024-09-18,2024-10-24,No
+fa4e927e,39,Other,None,Neurology,Therapy X,Improved,2023-03-02,2024-10-18,No
+8.38E+97,66,Female,COPD,Orthopedics,Medication A,Stable,2024-07-17,2024-08-17,Yes
+7b9c8400,45,Male,Hypertension,Cardiology,Therapy X,Deteriorated,2023-03-12,2023-04-09,Yes
+4112316c,23,Female,COPD,Oncology,Medication B,Deteriorated,2023-09-20,2024-02-23,No
+c618c7c4,77,Female,None,Cardiology,Medication A,Improved,2023-12-10,2024-10-25,No
+e86c5513,24,Male,Asthma,General Medicine,Therapy X,Improved,2024-01-06,2024-09-23,No
+e2144d5f,87,Other,Hypertension,Cardiology,Surgery Y,Improved,2024-10-27,2025-01-22,No
+302ea637,72,Other,Diabetes,General Medicine,Medication A,Stable,2024-02-26,2024-10-02,Yes
+a2ddd2a9,63,Female,Asthma,General Medicine,Surgery Y,Stable,2023-11-23,2024-11-10,Yes
+e2716f16,38,Female,Hypertension,Neurology,None,Deteriorated,2024-03-06,2025-01-17,No
+1d8f3289,67,Female,COPD,General Medicine,None,Stable,2024-08-24,2024-10-16,No
+2029f0a0,63,Male,Hypertension,Oncology,Medication B,Stable,2024-06-06,2024-07-03,No
+61d15086,34,Male,Diabetes,Cardiology,Medication A,Stable,2024-02-07,2024-06-05,No
+fa0de19c,57,Other,Diabetes,Oncology,Therapy X,Stable,2023-09-05,2023-11-14,Yes
+e23fe671,44,Other,COPD,Neurology,Therapy X,Stable,2023-02-20,2024-11-10,No
+8c5a96f4,55,Female,Hypertension,Cardiology,Medication A,Stable,2024-11-23,2025-01-09,No
+15599ffb,59,Other,Diabetes,General Medicine,Surgery Y,Improved,2024-08-25,2024-09-14,No
+3d993add,29,Female,None,Oncology,None,Improved,2023-03-31,2024-12-28,Yes
+281f3662,71,Female,None,Orthopedics,Medication A,Deteriorated,2024-06-22,2024-12-04,No
+a49af1ec,69,Female,Heart Disease,Oncology,Surgery Y,Stable,2024-03-26,2024-09-09,No
+9ad61d35,26,Female,Hypertension,General Medicine,Medication A,Deteriorated,2023-08-14,2024-10-22,Yes
+31ae398f,53,Other,None,Oncology,Medication A,Stable,2023-06-30,2023-12-25,Yes
+8f53f6f2,63,Female,Diabetes,General Medicine,Medication A,Deteriorated,2023-12-10,2024-01-25,Yes
+8bc71586,55,Male,Hypertension,Oncology,Therapy X,Deteriorated,2024-09-22,2024-11-12,Yes
+dec63209,74,Female,Hypertension,General Medicine,Surgery Y,Improved,2024-04-20,2024-06-23,No
+6656bd06,43,Male,COPD,Orthopedics,Therapy X,Improved,2023-09-22,2023-12-28,Yes
+4ee470b9,29,Male,Asthma,Cardiology,Medication A,Deteriorated,2023-12-03,2024-06-02,No
+26d0d353,85,Female,Hypertension,Oncology,None,Deteriorated,2023-05-28,2024-04-20,Yes
+6ec47d9c,38,Male,Hypertension,Orthopedics,Medication A,Improved,2024-07-17,2024-10-09,Yes
+b6ea6cdc,38,Other,Asthma,Neurology,None,Deteriorated,2023-10-21,2024-09-02,Yes
+1bc7ad64,50,Female,Hypertension,Orthopedics,Therapy X,Deteriorated,2023-02-21,2023-09-17,Yes
+b648014c,83,Male,Diabetes,Oncology,Surgery Y,Improved,2023-02-21,2024-10-26,Yes
+abeab2e2,67,Female,COPD,General Medicine,None,Deteriorated,2023-09-02,2023-11-25,No
+0883a6be,84,Female,Hypertension,Cardiology,Surgery Y,Stable,2024-07-02,2024-10-16,Yes
+61012f0e,29,Male,COPD,Orthopedics,Medication B,Improved,2023-03-21,2024-02-06,Yes
+be6ea7cc,57,Female,Heart Disease,Orthopedics,Medication B,Improved,2024-01-31,2024-10-28,Yes
+b3726542,84,Male,None,Orthopedics,Medication B,Improved,2024-05-18,2024-08-12,Yes
+c58870b3,43,Female,Heart Disease,General Medicine,Surgery Y,Improved,2023-07-25,2024-12-01,No
+9d58e21d,85,Other,Heart Disease,General Medicine,Medication B,Improved,2023-06-04,2024-03-09,No
+ece0937b,51,Male,Heart Disease,Orthopedics,Therapy X,Improved,2024-07-09,2024-12-13,No
+7d68ae54,86,Other,COPD,General Medicine,Surgery Y,Improved,2023-06-16,2024-06-26,No
+7ad64ddc,45,Other,Heart Disease,Orthopedics,Surgery Y,Improved,2024-10-05,2024-12-28,Yes
+0e8252cd,55,Female,COPD,Cardiology,Surgery Y,Deteriorated,2023-05-11,2023-11-05,No
+88a5a9d9,65,Male,Heart Disease,Cardiology,Medication A,Deteriorated,2023-02-24,2024-04-27,No
+f2f861ef,29,Male,Heart Disease,Orthopedics,Therapy X,Improved,2023-05-29,2023-09-10,Yes
+1f993ecd,31,Female,Hypertension,Oncology,None,Stable,2023-06-22,2023-11-05,No
+750fcb9b,74,Other,None,General Medicine,Medication B,Improved,2023-03-24,2024-11-14,Yes
+359abe19,63,Female,Hypertension,General Medicine,Surgery Y,Stable,2023-11-13,2024-04-17,Yes
+12f3e43e,72,Male,Diabetes,General Medicine,Medication A,Deteriorated,2023-02-18,2024-12-21,Yes
+c66d05d0,19,Other,Asthma,Neurology,Surgery Y,Stable,2024-08-06,2024-08-19,Yes
+b2e93ebd,63,Male,None,Cardiology,Surgery Y,Stable,2023-04-20,2024-12-26,No
+db0ed804,44,Other,Heart Disease,Orthopedics,Surgery Y,Stable,2024-01-04,2024-12-13,No
+b5deb9db,36,Male,Heart Disease,Oncology,Therapy X,Deteriorated,2024-11-25,2025-01-10,Yes
+0993aab7,84,Female,Asthma,General Medicine,Medication B,Improved,2024-10-10,2024-12-02,No
+13b04285,86,Other,Heart Disease,Oncology,Medication B,Improved,2023-02-02,2023-04-30,Yes
+c4b3826f,53,Other,Asthma,Neurology,None,Improved,2024-04-02,2024-05-18,No
+6bb81a9d,50,Other,None,Neurology,Medication B,Stable,2023-12-05,2024-07-13,Yes
+5c971b99,60,Female,Diabetes,Cardiology,Medication B,Stable,2023-05-22,2024-11-16,No
+0bcd763f,45,Other,Diabetes,Neurology,Medication A,Improved,2023-04-17,2023-08-07,No
+c537f05b,18,Female,Heart Disease,Oncology,Medication A,Improved,2024-06-06,2024-08-26,Yes
+1df00d8b,78,Male,Heart Disease,General Medicine,None,Deteriorated,2023-10-25,2024-07-08,No
+c78ad291,62,Female,COPD,Oncology,None,Deteriorated,2024-06-01,2024-12-24,No
+b74532a4,19,Other,Hypertension,General Medicine,Medication A,Improved,2023-05-20,2025-01-09,Yes
+1e2fc099,52,Other,Hypertension,Neurology,None,Improved,2024-04-06,2024-05-20,No
+dbd68693,72,Other,Asthma,Cardiology,None,Improved,2023-09-05,2024-01-16,No
+9e3b2e19,49,Other,Diabetes,Oncology,Medication A,Stable,2024-10-15,2024-12-15,Yes
+4e52973b,32,Male,None,Cardiology,Therapy X,Deteriorated,2023-02-18,2023-09-29,Yes
+1073dd2e,74,Male,Diabetes,Neurology,Medication A,Improved,2024-03-13,2024-09-09,No
+4819f38a,87,Other,Hypertension,Cardiology,Surgery Y,Stable,2023-07-12,2023-07-18,No
+7fd7bcc9,53,Male,Hypertension,Cardiology,None,Deteriorated,2024-11-04,2024-12-24,No
+31e7e578,42,Male,Asthma,General Medicine,Surgery Y,Improved,2023-09-08,2024-02-12,Yes
+c94b9861,80,Female,Diabetes,Neurology,None,Improved,2024-09-27,2025-01-11,Yes
+34b496a9,21,Female,Diabetes,Neurology,Medication B,Improved,2024-11-30,2025-01-04,No
+6d52e517,45,Other,None,General Medicine,Medication B,Improved,2023-07-21,2024-05-26,Yes
+e75da3be,26,Male,None,General Medicine,Medication A,Stable,2023-03-10,2023-04-05,No
+8c3109be,57,Female,Hypertension,Oncology,None,Stable,2023-03-31,2023-10-14,Yes
+f8fe4691,73,Other,Heart Disease,Oncology,None,Improved,2023-11-09,2025-01-25,No
+12d54356,37,Male,Hypertension,Oncology,Medication A,Stable,2024-01-28,2024-08-25,No
+0f953c47,23,Male,COPD,Orthopedics,Medication B,Deteriorated,2023-09-20,2024-10-09,Yes
+a739b421,69,Male,COPD,Orthopedics,Surgery Y,Improved,2023-08-03,2024-05-27,No
+f2089776,77,Female,None,Oncology,Medication B,Stable,2023-05-31,2023-12-05,No
+9dc9dbb2,88,Female,Hypertension,Cardiology,Therapy X,Stable,2023-04-08,2023-06-11,No
+fbb3112d,86,Male,Diabetes,Oncology,Medication B,Improved,2023-11-09,2024-04-26,No
+3e3e2425,56,Male,Heart Disease,Oncology,Medication B,Deteriorated,2023-07-09,2023-11-23,No
+bdc57dac,73,Female,Diabetes,Neurology,None,Improved,2024-10-29,2024-12-16,Yes
+f29b5038,19,Male,Diabetes,Cardiology,Medication B,Stable,2023-09-08,2023-09-26,Yes
+2c043316,44,Female,Asthma,Neurology,Therapy X,Stable,2024-05-16,2024-10-29,No
+0cf2d115,24,Other,COPD,General Medicine,Therapy X,Deteriorated,2023-03-31,2023-07-30,Yes
+e9037aef,44,Male,Asthma,General Medicine,Medication B,Stable,2023-10-10,2024-09-19,Yes
+ddb11ac3,77,Male,Heart Disease,Neurology,Surgery Y,Stable,2023-12-22,2024-07-16,Yes
+30f0d748,27,Male,Asthma,Neurology,Medication A,Improved,2024-11-11,2024-12-27,No
+0d76ce0c,69,Female,None,Cardiology,Surgery Y,Deteriorated,2024-11-19,2025-01-13,Yes
+a3d3b782,86,Male,Heart Disease,General Medicine,Medication B,Stable,2023-01-31,2023-09-22,Yes
+82cce3bb,88,Female,Hypertension,Cardiology,Surgery Y,Improved,2023-10-31,2024-10-09,No
+7ec1bca4,71,Other,Asthma,Cardiology,Surgery Y,Deteriorated,2023-09-29,2024-02-02,Yes
+c0197fa6,62,Male,Heart Disease,Neurology,Therapy X,Improved,2024-11-29,2024-12-06,Yes
+53e052f8,46,Female,Heart Disease,Cardiology,Therapy X,Improved,2023-07-28,2024-07-18,Yes
+10755a1a,25,Male,Heart Disease,Oncology,Surgery Y,Deteriorated,2024-02-22,2024-09-13,No
+a4d97998,25,Other,Diabetes,Orthopedics,None,Improved,2023-06-02,2024-04-27,Yes
+50444b5b,56,Other,Diabetes,Oncology,Medication B,Stable,2023-08-06,2023-10-25,No
+5b94b374,67,Male,None,Neurology,Medication B,Improved,2023-03-01,2024-05-04,No
+009ffc7d,52,Male,Asthma,Oncology,Therapy X,Improved,2024-01-10,2024-12-05,Yes
+f0067b1d,49,Male,None,Orthopedics,Medication B,Stable,2023-07-15,2024-11-04,No
+dcdbfc5d,75,Other,Asthma,Cardiology,Therapy X,Stable,2024-11-26,2024-12-22,Yes
+d7fdc0aa,62,Male,Asthma,Cardiology,Medication B,Improved,2023-03-06,2024-02-26,No
+b81ad2e0,78,Other,Heart Disease,General Medicine,None,Deteriorated,2024-08-03,2025-02-04,Yes
+3140f9bb,48,Male,COPD,Orthopedics,None,Improved,2023-10-10,2024-03-26,Yes
+f33df7aa,61,Other,COPD,Orthopedics,Surgery Y,Improved,2024-07-19,2024-10-05,Yes
+a9cc139c,66,Female,COPD,Oncology,Therapy X,Deteriorated,2024-03-05,2024-11-26,Yes
+9a1325b9,53,Other,Heart Disease,Neurology,Medication B,Stable,2024-10-22,2024-12-13,Yes
+4693e35d,46,Male,COPD,Orthopedics,Medication A,Stable,2023-05-29,2024-03-06,No
+a0ac8ef8,20,Male,COPD,General Medicine,None,Stable,2024-05-26,2024-10-05,No
+dc06a205,78,Male,Hypertension,Oncology,Medication B,Improved,2024-07-18,2024-11-04,No
+7a515bec,56,Female,Asthma,Cardiology,Therapy X,Improved,2024-02-08,2024-10-29,Yes
+a969ccc9,47,Female,COPD,Oncology,Surgery Y,Stable,2024-12-05,2025-02-07,No
+52e69fd0,82,Male,Heart Disease,Orthopedics,Medication B,Improved,2023-01-20,2023-03-22,Yes
+213f6576,33,Other,Hypertension,General Medicine,Medication A,Improved,2024-12-29,2025-01-12,No
+5.43E+15,59,Female,Heart Disease,Oncology,Therapy X,Stable,2023-08-07,2024-11-04,No
+ef79d304,31,Male,Asthma,Oncology,None,Deteriorated,2024-01-16,2024-05-06,No
+7d5c75fe,35,Other,Diabetes,Neurology,Medication A,Stable,2024-11-12,2025-01-31,No
+24319614,31,Female,Heart Disease,Neurology,Medication B,Stable,2024-06-15,2024-08-05,Yes
+66a0de07,22,Female,Asthma,General Medicine,None,Improved,2024-11-13,2024-12-16,No
+e8ba6d3c,35,Male,COPD,Cardiology,Surgery Y,Stable,2024-05-27,2024-08-21,No
+a3488166,56,Other,Diabetes,Cardiology,Therapy X,Deteriorated,2023-12-31,2025-01-18,Yes
+57d1164a,90,Female,Hypertension,General Medicine,Surgery Y,Stable,2023-03-16,2023-04-08,No
+a39964c6,26,Female,COPD,Neurology,None,Improved,2023-06-04,2024-05-26,No
+5c247923,31,Female,Hypertension,Neurology,Medication B,Improved,2024-05-06,2024-07-12,No
+a263d7ad,33,Female,Asthma,Oncology,None,Improved,2023-03-12,2023-06-21,Yes
+1eca4d29,75,Female,Hypertension,Neurology,Medication B,Deteriorated,2024-06-15,2024-08-05,Yes
+dcd44502,80,Other,Heart Disease,Oncology,Surgery Y,Improved,2024-02-21,2024-08-13,Yes
+1fdfcb2c,58,Female,Asthma,Cardiology,None,Stable,2024-12-10,2025-01-31,No
+9ca78efe,54,Other,Diabetes,Cardiology,Medication B,Improved,2024-05-21,2024-11-25,Yes
+ab4262eb,39,Male,Heart Disease,Oncology,Medication A,Improved,2023-12-01,2024-02-10,Yes
+1681ccda,65,Female,Asthma,General Medicine,Surgery Y,Deteriorated,2025-01-03,2025-01-19,No
+9073431a,35,Female,COPD,General Medicine,None,Stable,2024-11-15,2025-01-11,No
+26374413,24,Male,Diabetes,Orthopedics,None,Stable,2024-07-23,2024-08-20,No
+0ab19924,60,Female,Diabetes,Cardiology,Medication B,Deteriorated,2023-12-14,2024-07-16,Yes
+1db0eb73,63,Male,Hypertension,Oncology,Medication A,Stable,2023-06-13,2024-02-19,Yes
+49cbd2e5,56,Female,Heart Disease,Neurology,Medication A,Deteriorated,2024-03-01,2024-12-06,Yes
+453db52b,49,Male,Asthma,General Medicine,None,Deteriorated,2023-10-13,2024-04-24,Yes
+2ac46cf9,65,Female,None,General Medicine,Surgery Y,Stable,2024-05-01,2024-12-25,Yes
+2ddbffff,50,Male,Asthma,Orthopedics,Medication B,Stable,2024-02-06,2024-06-16,Yes
+24b7bd35,36,Other,Heart Disease,Orthopedics,Therapy X,Deteriorated,2023-03-05,2024-11-18,Yes
+72c86163,19,Other,Hypertension,Neurology,Medication B,Deteriorated,2023-04-26,2023-06-15,Yes
+d9d937ac,38,Male,Hypertension,Neurology,Medication B,Stable,2023-12-27,2024-01-18,No
+1b5a2cd7,83,Male,Hypertension,Oncology,None,Improved,2024-09-21,2025-01-15,Yes
+c1ec4e57,25,Other,Diabetes,General Medicine,None,Stable,2023-12-21,2025-01-11,No
+81ed0d16,67,Other,None,Oncology,Medication A,Improved,2024-05-31,2024-09-22,Yes
+44abf77f,23,Male,COPD,Cardiology,None,Deteriorated,2024-11-22,2024-12-18,No
+90066d05,53,Female,COPD,Cardiology,None,Improved,2023-03-31,2024-10-08,No
+2b127df5,30,Female,Heart Disease,Orthopedics,None,Deteriorated,2024-09-02,2025-01-05,Yes
+a0ea4402,72,Male,Diabetes,Oncology,Surgery Y,Improved,2023-03-04,2023-04-09,No
+dd1cf2d6,66,Female,Heart Disease,Cardiology,None,Improved,2023-09-11,2024-03-29,No
+390d55da,44,Other,Diabetes,Cardiology,Therapy X,Improved,2024-06-22,2024-10-04,Yes
+6e908e98,20,Female,COPD,Neurology,Therapy X,Improved,2024-07-18,2024-08-08,Yes
+cb23f3b9,22,Male,Heart Disease,General Medicine,Medication B,Deteriorated,2024-09-29,2025-01-08,Yes
+ac598c11,70,Male,Hypertension,Oncology,Medication A,Improved,2023-08-22,2024-09-16,No
+901e8f07,44,Female,Diabetes,Cardiology,Therapy X,Stable,2023-01-19,2023-12-31,No
+bf99c8b6,79,Female,Heart Disease,Cardiology,Medication A,Stable,2023-12-17,2024-11-27,Yes
+b8f599e8,83,Other,Diabetes,Neurology,Therapy X,Deteriorated,2023-07-15,2023-10-23,Yes
+d875d70a,77,Female,Asthma,Cardiology,Therapy X,Stable,2023-08-18,2024-05-22,Yes
+13ff3e56,42,Male,None,General Medicine,Medication B,Stable,2023-12-13,2024-06-30,Yes
+12b8b4f4,79,Male,COPD,Cardiology,Medication A,Stable,2024-11-09,2025-01-10,Yes
+f797a73e,26,Male,Asthma,General Medicine,Therapy X,Deteriorated,2023-08-07,2024-08-29,No
+81130ba0,53,Female,Hypertension,General Medicine,Surgery Y,Deteriorated,2024-06-27,2024-07-23,Yes
+80e2906e,66,Female,Diabetes,Orthopedics,Therapy X,Stable,2023-06-26,2024-11-21,No
+08c67d99,48,Male,Diabetes,General Medicine,Medication B,Stable,2023-02-05,2024-11-13,Yes
+e767a645,62,Female,Hypertension,Orthopedics,Medication B,Improved,2024-06-04,2025-01-06,Yes
+1dcca40d,89,Male,None,General Medicine,Medication A,Deteriorated,2024-12-22,2025-02-09,No
+8b75af43,70,Male,Diabetes,Oncology,Medication B,Improved,2024-06-30,2024-09-07,No
+dade9dc4,78,Other,None,Orthopedics,Surgery Y,Deteriorated,2023-10-02,2024-08-24,No
+cbf6a7e8,70,Male,COPD,Cardiology,Therapy X,Improved,2023-06-03,2023-10-01,No
+27ece6fa,67,Female,COPD,Oncology,Medication B,Stable,2023-02-25,2024-09-30,No
+77f558c4,20,Male,Heart Disease,Neurology,Medication B,Deteriorated,2023-02-28,2024-03-14,No
+7bac59b1,25,Other,Asthma,Orthopedics,Surgery Y,Improved,2023-06-23,2023-10-03,No
+040de77d,29,Other,Heart Disease,Cardiology,Surgery Y,Stable,2024-08-04,2024-08-31,Yes
+e87c647c,52,Other,Diabetes,Oncology,Medication A,Improved,2024-03-26,2024-11-16,Yes
+4b14a5d5,81,Female,Hypertension,Orthopedics,None,Stable,2023-12-12,2024-03-27,No
+d5c46c84,37,Male,COPD,Oncology,None,Improved,2023-03-10,2023-07-16,Yes
+c0b745ae,86,Other,Asthma,Orthopedics,None,Stable,2023-05-17,2025-01-06,No
+39142f12,51,Male,Diabetes,General Medicine,Therapy X,Deteriorated,2024-04-19,2024-09-03,No
+77196e0d,50,Male,COPD,Cardiology,Medication B,Deteriorated,2023-05-12,2024-04-01,Yes
+dde547ed,44,Male,Heart Disease,Oncology,None,Stable,2023-06-12,2024-12-22,Yes
+84b71388,43,Female,Diabetes,Orthopedics,Surgery Y,Deteriorated,2024-09-30,2024-12-15,Yes
+cb000129,36,Male,Heart Disease,Orthopedics,Therapy X,Deteriorated,2024-07-23,2024-09-05,No
+591aa91e,83,Other,None,Oncology,Therapy X,Improved,2023-12-28,2024-03-01,No
+2b88185a,28,Other,Asthma,General Medicine,Therapy X,Improved,2024-12-12,2025-01-21,No
+1a9350fe,26,Male,COPD,Cardiology,Medication A,Improved,2024-10-15,2024-11-29,Yes
+819c5bd3,32,Female,Diabetes,Neurology,Surgery Y,Stable,2024-03-26,2024-10-06,Yes
+203865ea,63,Other,Heart Disease,Neurology,Medication B,Deteriorated,2024-03-25,2024-08-22,Yes
+10286ca2,26,Female,Heart Disease,General Medicine,Medication B,Improved,2023-11-01,2024-07-18,Yes
+49c3780e,36,Other,Heart Disease,Oncology,Therapy X,Improved,2023-12-02,2023-12-19,Yes
+1d3993bf,59,Female,Heart Disease,Oncology,Medication B,Stable,2024-08-02,2025-01-18,Yes
+9133e85d,54,Male,Asthma,Oncology,Medication A,Deteriorated,2024-06-04,2025-01-26,No
+07aa4e43,72,Female,COPD,General Medicine,Medication A,Deteriorated,2023-07-17,2023-12-23,Yes
+ef132e96,20,Male,Asthma,Cardiology,Medication A,Deteriorated,2024-09-17,2024-10-07,No
+28b544cb,21,Male,Heart Disease,General Medicine,Medication B,Deteriorated,2024-12-30,2025-01-08,No
+4ddcd6fc,36,Female,COPD,Neurology,None,Stable,2023-11-24,2024-05-04,Yes
+a36c9f7d,50,Male,Diabetes,Cardiology,Surgery Y,Improved,2024-02-14,2024-03-29,Yes
+98395c38,54,Male,COPD,Oncology,Therapy X,Improved,2024-07-15,2024-09-21,No
+6.45E+08,45,Other,None,General Medicine,Medication A,Deteriorated,2024-01-23,2024-06-02,No
+1e8e1fb8,62,Male,Diabetes,Oncology,None,Deteriorated,2023-11-02,2024-09-19,No
+2cba9f8a,56,Other,Diabetes,General Medicine,None,Improved,2024-06-04,2024-08-14,Yes
+d875c081,19,Other,COPD,Cardiology,Surgery Y,Improved,2024-04-22,2024-11-22,Yes
+3db90826,23,Male,Asthma,General Medicine,Medication B,Stable,2024-02-07,2024-08-20,Yes
+a8b5b07e,84,Female,None,General Medicine,None,Stable,2023-10-05,2024-02-24,No
+d25a4c06,19,Other,None,General Medicine,Medication A,Deteriorated,2024-01-27,2024-12-24,Yes
+b36bfeea,38,Male,COPD,General Medicine,Medication B,Improved,2024-07-09,2024-08-23,Yes
+c215a384,30,Other,Heart Disease,Oncology,Therapy X,Improved,2023-12-27,2024-09-23,No
+362b1fbd,33,Other,Diabetes,Orthopedics,Medication A,Deteriorated,2023-05-23,2024-08-09,No
+82fec62e,56,Female,Hypertension,General Medicine,None,Deteriorated,2023-10-28,2024-03-13,No
+92d4a7a4,59,Other,None,Oncology,Surgery Y,Stable,2024-12-17,2025-02-06,No
+f5a153ea,65,Other,None,Orthopedics,Surgery Y,Deteriorated,2023-11-20,2024-12-24,No
+db9a1c87,55,Other,Diabetes,Cardiology,Medication A,Deteriorated,2024-11-18,2025-01-03,No
+e048b161,78,Male,COPD,Neurology,Therapy X,Improved,2023-11-26,2024-06-03,No
+5356e946,56,Female,Asthma,Cardiology,Therapy X,Improved,2024-08-13,2024-10-18,Yes
+b7d4bea3,43,Female,Hypertension,General Medicine,Surgery Y,Improved,2024-09-24,2025-01-16,No
+6fd1a4c5,76,Other,Asthma,Cardiology,Therapy X,Deteriorated,2024-09-22,2024-10-05,No
+8bea29c4,47,Other,Asthma,Cardiology,Therapy X,Deteriorated,2023-06-18,2023-09-12,Yes
+2a1e1481,83,Male,Hypertension,Orthopedics,Medication A,Improved,2024-01-29,2024-06-27,Yes
+7a5e3e95,60,Other,Heart Disease,Oncology,Medication A,Improved,2024-04-14,2024-11-12,Yes
+09b479fd,59,Female,Asthma,Oncology,Medication B,Stable,2024-04-17,2024-12-29,Yes
+e9e18c32,47,Other,Diabetes,Orthopedics,Medication A,Deteriorated,2023-01-25,2024-08-05,No
+6694bbf8,56,Male,Diabetes,Neurology,Therapy X,Stable,2023-08-18,2024-07-02,No
+a49a44c9,58,Other,Heart Disease,Orthopedics,Medication A,Deteriorated,2023-04-04,2024-04-22,No
+750d36f6,55,Female,Heart Disease,Oncology,None,Improved,2023-05-15,2023-09-24,Yes
+46a76be9,36,Male,Diabetes,Oncology,None,Stable,2023-11-12,2024-10-13,Yes
+a4935ebf,88,Other,Heart Disease,Oncology,Medication B,Deteriorated,2023-06-02,2025-01-11,Yes
+8c414117,55,Male,Heart Disease,Orthopedics,Therapy X,Stable,2024-02-11,2025-02-08,No
+bb4614ec,38,Female,None,Neurology,Therapy X,Stable,2024-09-02,2024-10-04,No
+71b26732,71,Other,Hypertension,Neurology,Therapy X,Deteriorated,2024-10-31,2024-12-07,Yes
+220bdfb8,36,Other,None,Neurology,None,Deteriorated,2023-04-16,2024-09-04,No
+54d4e10e,22,Male,Hypertension,Orthopedics,Medication B,Deteriorated,2024-01-29,2024-04-04,No
+aa7598b7,34,Female,Asthma,Neurology,Medication B,Improved,2023-04-28,2023-05-31,No
+236f70bf,51,Female,Diabetes,Cardiology,None,Improved,2023-01-25,2023-06-03,No
+c7fcb8ec,51,Male,COPD,Neurology,Medication A,Improved,2023-09-20,2024-06-05,No
+cf7d56df,69,Female,Hypertension,General Medicine,Medication B,Improved,2024-06-08,2024-07-20,Yes
+5a1bf96a,88,Male,Asthma,Oncology,Medication A,Stable,2024-01-06,2024-02-14,No
+856e2b37,74,Other,Heart Disease,General Medicine,Therapy X,Improved,2023-08-27,2024-08-11,No
+10d5f9e2,85,Other,Asthma,General Medicine,None,Improved,2023-02-13,2023-10-23,Yes
+e1253220,56,Male,Asthma,Neurology,Medication A,Improved,2024-05-12,2024-11-23,Yes
+2b6a7206,90,Male,Hypertension,Cardiology,None,Deteriorated,2024-01-16,2024-12-18,No
+cc876240,57,Other,None,Oncology,Therapy X,Stable,2023-12-26,2025-01-03,Yes
+68fd5582,33,Female,Diabetes,Neurology,Surgery Y,Improved,2023-10-18,2024-03-17,Yes
+c2fcf94a,23,Female,Hypertension,Neurology,Medication B,Deteriorated,2023-09-01,2023-11-18,Yes
+360faca4,75,Female,COPD,General Medicine,Surgery Y,Stable,2024-12-10,2025-01-22,Yes
+c72af238,35,Other,None,Oncology,Medication A,Stable,2023-06-15,2023-11-08,No
+c674146d,30,Female,Heart Disease,Oncology,Therapy X,Deteriorated,2023-12-31,2024-10-23,No
+93e1a600,31,Female,Diabetes,Neurology,Medication A,Improved,2023-03-19,2024-05-27,No
+4326d1e4,63,Female,Hypertension,Neurology,Medication A,Improved,2023-02-08,2024-01-29,No
+60cab44f,29,Other,Heart Disease,Cardiology,None,Improved,2024-09-04,2024-09-25,Yes
+747e532e,84,Male,COPD,Orthopedics,None,Improved,2024-12-08,2025-02-06,Yes
+67dc6c03,19,Other,None,General Medicine,Surgery Y,Improved,2023-02-02,2024-08-20,No
+6afa6255,50,Male,Hypertension,Neurology,Surgery Y,Stable,2023-09-11,2024-10-17,Yes
+b7c02c17,68,Other,Hypertension,Cardiology,None,Stable,2024-03-07,2024-09-29,No
+9bd1bffc,61,Other,Diabetes,Neurology,Therapy X,Improved,2023-08-21,2024-08-08,No
+14ccfad3,66,Female,Asthma,Neurology,Medication A,Deteriorated,2024-05-05,2024-09-19,Yes
+03fea67b,89,Female,Diabetes,Orthopedics,None,Improved,2024-11-30,2024-12-02,Yes
+39821742,45,Female,Hypertension,General Medicine,Therapy X,Deteriorated,2024-10-24,2025-02-02,Yes
+908ada4e,69,Male,Heart Disease,Cardiology,Medication B,Stable,2023-08-12,2023-09-25,No
+a1c4e999,66,Male,None,Oncology,Medication A,Improved,2023-04-05,2024-11-09,Yes
+91f7d494,68,Other,Diabetes,Orthopedics,Surgery Y,Stable,2023-05-08,2023-07-23,No
+c9a0131e,30,Other,Heart Disease,Cardiology,Therapy X,Improved,2024-09-01,2024-09-17,No
+57190cf7,84,Female,None,Cardiology,None,Deteriorated,2024-11-11,2025-01-10,No
+8d5b3f73,21,Other,Diabetes,Neurology,Medication A,Stable,2023-07-26,2024-03-23,No
+3353edaf,45,Other,Hypertension,Neurology,Surgery Y,Stable,2024-01-28,2024-09-05,No
+7e1d2917,38,Other,Asthma,Cardiology,Surgery Y,Improved,2023-12-17,2024-09-05,No
+dce42f15,77,Other,Hypertension,Oncology,Medication B,Stable,2023-11-12,2024-09-04,Yes
+f3b6ebec,80,Other,Asthma,Neurology,Surgery Y,Deteriorated,2024-05-27,2024-06-14,Yes
+61c87c1e,67,Female,None,General Medicine,Medication B,Stable,2024-08-03,2024-10-21,No
+0edb88df,43,Male,Diabetes,General Medicine,None,Improved,2024-04-24,2024-05-10,No
+f1985586,46,Other,Hypertension,Neurology,Medication A,Stable,2023-08-25,2024-08-14,Yes
+0dd8324a,27,Female,Asthma,Orthopedics,None,Deteriorated,2024-05-09,2024-05-21,Yes
+f79e95a1,72,Female,COPD,Orthopedics,Surgery Y,Improved,2024-08-21,2024-12-22,No
+f33fee3f,33,Other,Heart Disease,Orthopedics,None,Stable,2024-08-20,2024-12-17,No
+7bd71534,45,Male,Diabetes,Neurology,None,Stable,2023-03-22,2024-06-25,No
+a554026b,57,Other,COPD,General Medicine,Medication A,Improved,2024-11-01,2025-02-05,Yes
+b0c16e59,39,Male,Asthma,Neurology,Therapy X,Stable,2023-01-26,2024-08-13,Yes
+d9a9a1a3,55,Other,Asthma,Neurology,Medication B,Improved,2023-05-03,2023-05-24,Yes
+aea3f074,67,Male,Hypertension,Orthopedics,Medication B,Stable,2024-01-29,2024-12-13,Yes
+47eff7e3,65,Male,COPD,Neurology,Medication A,Improved,2023-01-23,2023-12-08,No
+bffa3aa9,38,Male,Asthma,Cardiology,Medication A,Improved,2023-07-18,2024-12-15,No
+ebef0069,24,Male,Asthma,Orthopedics,Medication A,Deteriorated,2024-07-12,2024-12-21,No
+fbe15c25,37,Male,Heart Disease,Neurology,Medication A,Improved,2023-12-20,2023-12-26,Yes
+4017a8e8,64,Female,Asthma,Orthopedics,Medication A,Deteriorated,2024-09-10,2025-01-20,No
+418ceb8c,47,Other,Hypertension,Neurology,Surgery Y,Improved,2023-08-12,2024-01-23,Yes
+9f2cb9b6,27,Other,Diabetes,Orthopedics,Surgery Y,Improved,2023-03-20,2023-09-12,No
+7a2d475d,44,Female,Heart Disease,Oncology,Medication A,Deteriorated,2024-08-10,2024-12-22,Yes
+01ca10a7,49,Other,COPD,Neurology,Therapy X,Improved,2024-12-19,2024-12-25,Yes
+01306ebe,30,Male,Diabetes,Cardiology,Therapy X,Deteriorated,2024-02-14,2024-07-29,No
+a9a19402,82,Other,Hypertension,Orthopedics,Medication A,Stable,2024-08-31,2024-11-08,Yes
+acb6f0f6,59,Female,Heart Disease,Cardiology,Surgery Y,Deteriorated,2023-08-29,2024-01-21,No
+abb98269,81,Male,COPD,Orthopedics,None,Deteriorated,2023-05-22,2024-06-04,Yes
+0f007284,25,Other,Diabetes,General Medicine,Therapy X,Stable,2024-01-26,2024-08-07,Yes
+c1c394aa,22,Male,Heart Disease,Oncology,None,Deteriorated,2024-05-19,2025-01-10,Yes
+f3d59d7c,50,Female,COPD,Oncology,Surgery Y,Stable,2023-05-27,2024-10-24,No
+36a7ea38,68,Male,Hypertension,Orthopedics,Medication A,Deteriorated,2024-04-08,2024-12-31,Yes
+45df3a1e,34,Other,COPD,Oncology,Therapy X,Deteriorated,2024-06-07,2024-09-11,Yes
+ef6cdec5,18,Female,Diabetes,General Medicine,None,Deteriorated,2023-08-15,2023-08-23,No
+971494d7,75,Other,Diabetes,Oncology,None,Improved,2025-01-07,2025-01-31,Yes
+476ac16e,59,Male,COPD,Oncology,None,Deteriorated,2024-06-05,2024-06-08,Yes
+a3c844a2,61,Other,Heart Disease,Oncology,Surgery Y,Deteriorated,2023-05-26,2023-11-01,Yes
+0a9b5bfd,51,Female,Heart Disease,Neurology,Therapy X,Improved,2024-05-23,2024-11-05,No
+62334657,21,Male,None,Oncology,Medication A,Improved,2024-02-18,2025-01-19,Yes
+694da710,55,Other,None,Neurology,Therapy X,Improved,2024-02-29,2024-11-26,No
+0808c36e,34,Other,Hypertension,Oncology,Therapy X,Deteriorated,2024-12-23,2025-02-01,No
+039248dd,72,Male,Asthma,Oncology,Medication A,Deteriorated,2023-05-06,2023-12-31,Yes
+2b2df5be,34,Female,Heart Disease,Orthopedics,None,Deteriorated,2024-10-11,2025-01-07,Yes
+37d36423,90,Other,Hypertension,Orthopedics,None,Stable,2023-09-02,2024-09-19,Yes
+1501eda3,51,Other,Heart Disease,Orthopedics,Surgery Y,Stable,2023-02-08,2023-02-23,No
+ba44249f,32,Other,Diabetes,General Medicine,Therapy X,Improved,2023-12-13,2024-12-05,Yes
+28fec4e7,72,Other,Diabetes,Neurology,None,Stable,2024-10-10,2024-11-16,No
+d45065bf,77,Male,None,Neurology,Medication B,Deteriorated,2023-06-20,2023-09-23,No
+e7f0c63d,68,Female,Heart Disease,Cardiology,Therapy X,Deteriorated,2023-03-04,2023-10-04,No
+7d21938c,82,Female,COPD,Cardiology,Surgery Y,Stable,2024-06-21,2025-01-01,Yes
+16f143f6,82,Male,Hypertension,Oncology,Medication A,Deteriorated,2023-05-09,2024-05-10,No
+a78c0452,84,Other,Asthma,General Medicine,Medication A,Improved,2024-03-28,2024-11-16,No
+9a217be6,39,Female,Diabetes,General Medicine,None,Stable,2024-11-24,2025-01-13,No
+0f5d8a94,86,Female,Diabetes,Oncology,Medication B,Stable,2024-07-07,2025-01-01,No
+22578b1c,30,Female,Hypertension,Cardiology,Medication B,Deteriorated,2024-05-15,2024-11-27,No
+8aa700fb,88,Male,Diabetes,Oncology,Therapy X,Stable,2024-12-10,2024-12-20,No
+e64fd424,84,Female,COPD,Neurology,Therapy X,Stable,2024-10-02,2025-01-12,Yes
+372f58fb,87,Female,None,Orthopedics,None,Deteriorated,2024-03-03,2024-03-14,Yes
+b4a59ff9,29,Male,None,Neurology,Therapy X,Deteriorated,2024-07-15,2024-11-18,No
+b85feeeb,55,Male,COPD,Oncology,Medication B,Improved,2023-08-07,2024-05-26,No
+1fba928d,75,Male,Diabetes,Oncology,Medication B,Improved,2023-06-29,2025-01-07,Yes
+66d6ee9f,62,Male,None,General Medicine,Medication A,Deteriorated,2023-10-14,2024-10-25,No
+7eb9d19c,80,Female,Hypertension,General Medicine,Surgery Y,Stable,2024-03-25,2024-09-07,Yes
+fcf3c93b,50,Male,Asthma,General Medicine,None,Improved,2023-11-14,2024-11-02,Yes
+e99e51c9,27,Male,None,Orthopedics,Surgery Y,Stable,2024-01-08,2024-08-30,Yes
+044bf280,80,Female,None,Oncology,Therapy X,Stable,2024-06-04,2025-02-03,Yes
+d0591c7e,81,Other,Hypertension,Cardiology,Therapy X,Improved,2024-05-08,2024-09-06,No
+8212b473,47,Female,None,Cardiology,None,Improved,2023-04-01,2024-03-02,Yes
+1a4dd782,35,Female,Heart Disease,Orthopedics,Medication A,Stable,2024-06-18,2024-10-14,No
+b1a5455d,29,Male,Heart Disease,Oncology,Surgery Y,Deteriorated,2024-04-17,2024-06-24,No
+89956b15,55,Male,None,Oncology,Medication B,Deteriorated,2023-03-06,2025-01-02,Yes
+ab933618,30,Male,Diabetes,General Medicine,Medication B,Deteriorated,2023-05-06,2023-05-15,No
+33e071a4,37,Female,Diabetes,Neurology,None,Stable,2024-02-06,2024-04-30,No
+5b4dc706,47,Other,None,Oncology,None,Improved,2023-08-17,2024-02-21,No
+be7c0c0d,50,Other,None,General Medicine,Medication B,Improved,2024-04-28,2024-10-16,No
+1a2a046e,78,Female,Hypertension,Cardiology,Medication A,Deteriorated,2023-12-28,2024-06-01,No
+9f1b485f,84,Female,Diabetes,Oncology,Medication B,Deteriorated,2024-01-16,2024-12-13,Yes
+be70ded3,53,Other,Hypertension,Cardiology,Medication A,Stable,2024-07-06,2024-08-10,Yes
+5a28a4b1,69,Male,Hypertension,Orthopedics,Surgery Y,Stable,2023-07-21,2024-07-05,No
+45e6eab7,41,Male,Hypertension,General Medicine,None,Stable,2024-12-20,2024-12-24,Yes
+6085b861,20,Male,Heart Disease,Orthopedics,Surgery Y,Stable,2023-10-19,2024-04-09,Yes
+c7625912,44,Male,Heart Disease,Oncology,Medication B,Improved,2024-07-28,2024-08-04,Yes
+e5506c6c,20,Other,Diabetes,Cardiology,Surgery Y,Stable,2023-03-10,2024-09-22,No
+fb25d78e,73,Female,Heart Disease,Neurology,Therapy X,Deteriorated,2023-10-31,2024-12-02,No
+af206f40,90,Male,Diabetes,General Medicine,Medication B,Deteriorated,2024-04-26,2024-11-30,Yes
+8b0087a7,35,Male,Hypertension,Neurology,Surgery Y,Stable,2024-01-09,2024-11-17,Yes
+ddf9a942,51,Female,Diabetes,Oncology,Medication B,Deteriorated,2024-09-22,2024-11-15,Yes
+847558dc,72,Female,Heart Disease,Cardiology,Medication A,Deteriorated,2023-07-25,2023-10-02,Yes
+7d61efb3,51,Other,Hypertension,Cardiology,Medication B,Deteriorated,2023-07-03,2023-09-21,No
+3e4e4710,20,Female,Asthma,Neurology,None,Stable,2023-10-14,2024-09-24,No
+e8524173,56,Male,Asthma,Neurology,None,Stable,2024-06-10,2024-10-21,No
+a4b1657d,21,Female,None,General Medicine,Medication A,Stable,2024-07-30,2024-09-19,No
+0579376f,18,Other,Hypertension,Neurology,None,Improved,2024-11-22,2024-11-28,Yes
+9446320c,33,Female,None,General Medicine,Medication A,Stable,2024-10-31,2024-12-27,Yes
+d691bc43,55,Other,Heart Disease,General Medicine,Therapy X,Stable,2023-12-14,2024-05-05,Yes
+03cec42f,50,Other,COPD,Cardiology,Medication A,Improved,2024-02-02,2024-06-26,Yes
+b2abdd36,68,Other,Heart Disease,Neurology,Therapy X,Improved,2023-06-04,2023-10-06,Yes
+ebdc8b90,48,Male,None,Oncology,None,Deteriorated,2023-04-14,2024-11-09,Yes
+2cc33783,32,Other,Heart Disease,General Medicine,Surgery Y,Stable,2024-07-17,2024-12-23,No
+2ca13a8f,62,Male,Diabetes,Oncology,Medication A,Improved,2023-11-11,2024-05-05,Yes
+47d877b1,24,Female,Asthma,General Medicine,Medication A,Improved,2024-09-22,2024-12-12,No
+e77106bb,79,Male,Diabetes,Cardiology,None,Deteriorated,2023-11-07,2024-11-29,Yes
+ba7dd657,45,Female,Diabetes,Oncology,Medication B,Stable,2023-06-11,2024-05-09,No
+ba1b19db,35,Other,Diabetes,Orthopedics,None,Improved,2024-05-22,2024-06-19,Yes
+b926dbb2,87,Other,Heart Disease,Oncology,Surgery Y,Improved,2023-07-02,2023-08-25,No
+f073a7e0,39,Female,Heart Disease,Cardiology,Therapy X,Improved,2023-02-08,2023-05-08,Yes
+2b4ad571,37,Female,None,Cardiology,Medication A,Deteriorated,2023-07-06,2025-01-08,Yes
+a57eb708,18,Other,Diabetes,General Medicine,Therapy X,Improved,2024-07-06,2024-07-28,Yes
+a0225092,32,Male,None,Oncology,Therapy X,Stable,2023-08-23,2024-09-05,No
+4f72b3fe,61,Female,Diabetes,Oncology,None,Deteriorated,2023-08-12,2023-11-06,No
+3abbec98,25,Female,Diabetes,General Medicine,Medication A,Stable,2023-07-11,2023-12-07,Yes
+26743545,30,Female,Diabetes,Cardiology,Medication A,Stable,2024-02-23,2024-12-14,Yes
+d62180b3,84,Other,Heart Disease,Cardiology,Medication B,Stable,2024-02-05,2025-02-10,No
+e981a86a,37,Female,Diabetes,Orthopedics,Medication A,Deteriorated,2023-10-08,2024-07-29,Yes
+c2eab456,29,Other,Asthma,Cardiology,None,Deteriorated,2023-09-19,2023-11-25,No
+6f8db172,31,Other,Asthma,Neurology,None,Stable,2023-08-27,2024-11-13,No
+401b4b63,19,Female,Asthma,Orthopedics,Surgery Y,Deteriorated,2024-11-04,2024-11-26,No
+05344b3e,64,Other,Diabetes,General Medicine,Surgery Y,Stable,2023-10-11,2024-05-21,Yes
+91e53e0e,79,Female,None,Neurology,Medication A,Improved,2024-11-28,2025-01-08,No
+d2c4325c,73,Other,COPD,Orthopedics,None,Improved,2023-03-21,2023-08-24,Yes
+ad4cd0c1,46,Male,Diabetes,Cardiology,Therapy X,Deteriorated,2024-05-15,2024-06-17,No
+11ac16c4,88,Female,Hypertension,General Medicine,Medication A,Stable,2024-03-08,2024-09-01,Yes
+b7fb88e6,50,Other,None,Neurology,Medication B,Stable,2024-12-31,2025-01-15,Yes
+ab1087ef,76,Male,Heart Disease,General Medicine,Medication B,Deteriorated,2024-05-21,2024-12-13,No
+37981280,51,Male,Heart Disease,General Medicine,Medication B,Deteriorated,2023-10-10,2024-10-07,Yes
+fe04409f,46,Other,Asthma,General Medicine,Therapy X,Stable,2024-01-27,2024-02-06,Yes
+2ffdfa1f,37,Female,Asthma,Orthopedics,Therapy X,Improved,2024-06-27,2024-10-15,Yes
+a9ee4a53,35,Male,Asthma,Oncology,Surgery Y,Improved,2023-06-23,2024-05-21,No
+28911119,89,Male,None,Orthopedics,None,Improved,2024-09-24,2025-01-30,No
+4d92de01,73,Male,Heart Disease,General Medicine,Surgery Y,Deteriorated,2023-02-26,2023-07-23,No
+dc654b7b,43,Other,Diabetes,Cardiology,Surgery Y,Improved,2023-07-06,2024-12-23,Yes
+a2644857,87,Other,Heart Disease,Neurology,Therapy X,Deteriorated,2024-03-18,2024-04-22,No
+195965eb,41,Other,Asthma,Neurology,Medication A,Improved,2023-10-28,2023-11-08,Yes
+1999c433,41,Other,None,Orthopedics,None,Stable,2024-06-01,2024-12-24,Yes
+c7caeab3,65,Other,Asthma,Cardiology,Surgery Y,Stable,2023-07-24,2023-08-04,No
+8d9cbbb0,58,Male,Diabetes,General Medicine,Surgery Y,Stable,2024-03-29,2024-04-01,Yes
+c490fad1,59,Female,None,Neurology,Surgery Y,Stable,2023-09-03,2024-05-03,No
+1d3990b4,34,Male,Asthma,Orthopedics,Therapy X,Improved,2023-04-23,2023-05-19,Yes
+e41fea6b,82,Male,Asthma,Oncology,Medication B,Improved,2023-08-11,2023-10-04,No
+75137d56,43,Male,None,General Medicine,None,Stable,2024-05-06,2024-12-03,Yes
+8a107ab7,39,Other,Asthma,Oncology,Surgery Y,Deteriorated,2023-11-08,2024-09-19,No
+77fbdc0a,21,Other,Hypertension,Oncology,Surgery Y,Improved,2023-12-23,2024-01-17,No
+b941f4dc,84,Female,Heart Disease,Neurology,Therapy X,Deteriorated,2024-06-25,2024-07-30,Yes
+b6e16854,72,Other,Hypertension,Orthopedics,None,Deteriorated,2023-06-27,2023-07-30,Yes
+14e377e1,45,Male,COPD,Cardiology,Medication B,Improved,2023-02-06,2023-11-16,Yes
+8483519b,83,Other,None,Cardiology,Surgery Y,Deteriorated,2023-12-21,2024-12-09,Yes
+32b35dea,42,Other,Hypertension,Neurology,Therapy X,Stable,2024-11-13,2025-01-21,No
+f5280725,48,Female,Hypertension,Oncology,None,Improved,2024-06-24,2025-01-10,Yes
+0e0d701e,52,Male,Hypertension,Neurology,Medication B,Improved,2023-07-23,2023-09-30,No
+fa982a0b,85,Male,Asthma,General Medicine,Surgery Y,Deteriorated,2024-05-29,2024-11-06,No
+3ea81b6a,44,Male,None,General Medicine,Medication A,Improved,2023-02-19,2023-05-14,Yes
+c989c2ea,37,Female,Heart Disease,General Medicine,None,Deteriorated,2024-05-14,2025-01-16,No
+856e8529,78,Female,Hypertension,Orthopedics,Surgery Y,Stable,2023-01-27,2023-11-09,No
+63892f97,37,Male,Heart Disease,Neurology,Therapy X,Stable,2023-06-18,2023-10-10,No
+2345837c,51,Other,COPD,Cardiology,Medication A,Deteriorated,2024-03-29,2024-06-05,Yes
+671a599b,38,Male,None,General Medicine,Therapy X,Stable,2024-04-25,2024-06-25,No
+4ddcf52a,56,Male,Hypertension,Neurology,Surgery Y,Deteriorated,2023-04-12,2024-12-12,No
+e5b2e01c,43,Other,Asthma,General Medicine,Medication B,Improved,2023-11-10,2024-05-31,Yes
+af6c695b,20,Female,Diabetes,General Medicine,Medication B,Stable,2023-08-06,2024-08-30,Yes
+c24aa7b9,83,Male,Diabetes,Neurology,Surgery Y,Improved,2023-04-20,2023-07-02,Yes
+1d243fc3,59,Male,Asthma,Orthopedics,Medication A,Improved,2023-05-27,2024-09-22,Yes
+f3abc739,42,Female,Heart Disease,Orthopedics,Surgery Y,Deteriorated,2023-07-12,2023-11-10,No
+915155c5,63,Male,None,General Medicine,Therapy X,Stable,2023-09-01,2024-06-29,No
+72812b1a,82,Male,Diabetes,Orthopedics,Therapy X,Improved,2023-05-29,2023-12-22,No
+509e8ec1,46,Other,Heart Disease,Cardiology,Medication A,Deteriorated,2024-08-26,2024-12-13,No
+c3d435fd,28,Male,Hypertension,General Medicine,None,Deteriorated,2024-07-13,2024-07-25,No
+76f64419,76,Male,Heart Disease,General Medicine,Medication B,Deteriorated,2023-06-25,2024-07-28,Yes
+903cc10d,77,Male,Asthma,Cardiology,Therapy X,Improved,2023-02-10,2023-10-16,No
+e331b2e5,26,Female,Diabetes,General Medicine,Surgery Y,Deteriorated,2023-01-18,2023-12-22,No
+c3d34aba,57,Female,COPD,Oncology,Medication B,Improved,2023-11-09,2024-07-15,No
+0231db5c,45,Other,Heart Disease,Neurology,Surgery Y,Deteriorated,2023-12-31,2024-09-02,No
+3dfc9f9d,79,Male,Asthma,Oncology,Therapy X,Stable,2023-07-03,2023-10-01,Yes
+7c453237,84,Female,COPD,Orthopedics,Surgery Y,Stable,2023-10-24,2024-03-20,Yes
+b246d1de,83,Other,None,Cardiology,Surgery Y,Stable,2024-07-20,2024-08-15,No
+ad2b1997,27,Other,None,Neurology,None,Improved,2023-05-23,2024-12-11,Yes
+d06a3c33,40,Other,Hypertension,General Medicine,None,Stable,2023-11-05,2024-10-08,Yes
+c96ff7b8,31,Female,COPD,Cardiology,Therapy X,Improved,2024-05-08,2024-09-26,No
+afcd2f41,33,Other,COPD,Orthopedics,Therapy X,Improved,2023-02-17,2024-03-01,No
+d266fae7,19,Male,Heart Disease,Neurology,None,Deteriorated,2024-11-19,2025-01-05,Yes
+ee9393fb,52,Female,Diabetes,Oncology,Surgery Y,Stable,2024-03-10,2024-08-10,Yes
+56a934a9,87,Male,Hypertension,Cardiology,Surgery Y,Stable,2024-05-30,2024-09-05,No
+32eca3be,79,Other,COPD,Neurology,Surgery Y,Deteriorated,2023-09-02,2024-04-30,No
+11a0b798,72,Female,None,Oncology,None,Deteriorated,2024-12-22,2025-01-13,No
+09a0bb9a,32,Female,Hypertension,Orthopedics,None,Improved,2023-06-02,2023-12-20,Yes
+26972a61,43,Male,Hypertension,Neurology,Medication B,Improved,2023-08-02,2024-01-12,No
+24a87e41,61,Female,Asthma,Neurology,Surgery Y,Deteriorated,2023-07-22,2024-08-23,No
+43c31713,53,Male,COPD,General Medicine,Therapy X,Improved,2023-03-13,2024-11-24,No
+f531bf1a,83,Male,None,Orthopedics,Medication A,Deteriorated,2024-09-03,2024-10-23,Yes
+76bc926b,87,Male,Asthma,Neurology,Surgery Y,Improved,2024-07-08,2024-10-02,No
+aa211f6e,69,Female,COPD,Orthopedics,None,Improved,2024-08-20,2024-10-31,Yes
+f865f67d,84,Other,Hypertension,Orthopedics,Therapy X,Stable,2024-06-25,2024-08-21,Yes
+d617e3b6,75,Male,COPD,General Medicine,Surgery Y,Stable,2024-01-26,2024-04-25,No
+6d5d3ecb,21,Male,COPD,Neurology,Therapy X,Deteriorated,2023-05-06,2023-11-04,No
+ac6f8908,76,Male,Asthma,General Medicine,None,Deteriorated,2023-05-12,2023-12-27,No
+8c40a999,53,Female,Heart Disease,Cardiology,Surgery Y,Improved,2023-04-21,2023-04-22,Yes
+2308038e,44,Male,None,Neurology,Therapy X,Stable,2024-02-01,2024-04-15,Yes
+a24a4129,84,Other,COPD,General Medicine,Therapy X,Improved,2024-08-05,2024-11-09,No
+35612103,29,Female,COPD,Orthopedics,Therapy X,Improved,2023-08-24,2024-12-23,Yes
+3c8d9cd5,34,Male,COPD,General Medicine,None,Stable,2023-11-15,2023-11-28,Yes
+63db61a3,49,Other,Hypertension,Neurology,Surgery Y,Stable,2024-12-22,2025-01-14,No
+9f029b2b,38,Female,Diabetes,General Medicine,Therapy X,Stable,2023-06-18,2023-10-08,No
+a1881893,69,Female,None,General Medicine,Surgery Y,Stable,2023-10-19,2024-08-23,Yes
+ccacd710,79,Other,COPD,Oncology,Surgery Y,Improved,2024-01-06,2024-12-21,Yes
+898e55af,61,Other,COPD,Cardiology,Surgery Y,Improved,2023-12-31,2024-09-12,Yes
+e4775905,68,Male,Asthma,Orthopedics,None,Stable,2023-11-21,2024-03-24,No
+653e42f8,43,Male,None,Neurology,Surgery Y,Improved,2023-05-01,2024-12-10,Yes
+701ce3c7,25,Male,COPD,Cardiology,Medication A,Improved,2024-12-05,2025-01-18,No
+339a4d87,89,Female,Diabetes,Neurology,Therapy X,Deteriorated,2023-01-26,2024-08-31,Yes
+645713b1,33,Other,Heart Disease,General Medicine,Medication B,Stable,2023-09-24,2024-11-15,No
+a1a57b05,54,Female,Heart Disease,Oncology,Therapy X,Improved,2024-06-17,2024-12-22,Yes
+c43eef40,64,Other,None,Neurology,Medication B,Deteriorated,2023-02-14,2024-08-18,Yes
+47166dd7,52,Female,Diabetes,Oncology,Surgery Y,Deteriorated,2024-08-27,2025-01-04,No
+30f4ec4e,87,Female,Diabetes,Cardiology,Therapy X,Deteriorated,2024-02-10,2024-12-05,Yes
+f595e8af,56,Male,Heart Disease,Orthopedics,None,Improved,2023-03-07,2024-10-12,Yes
+cd5fe4ad,63,Male,Diabetes,General Medicine,Surgery Y,Stable,2024-03-20,2024-08-12,Yes
+afd3e813,52,Other,None,Orthopedics,None,Improved,2023-03-20,2024-09-26,Yes
+06e122d8,64,Male,Heart Disease,Oncology,Surgery Y,Stable,2023-06-02,2023-06-24,Yes
+ccf701a0,70,Male,Heart Disease,Orthopedics,Surgery Y,Improved,2024-08-13,2025-01-04,Yes
+ba7ef7ef,73,Male,COPD,Orthopedics,Medication B,Improved,2023-09-21,2024-01-21,Yes
+6f4b309f,74,Female,Diabetes,Cardiology,Surgery Y,Deteriorated,2023-09-28,2024-07-21,No
+6a914da6,63,Male,Diabetes,General Medicine,Surgery Y,Improved,2024-07-01,2024-11-08,Yes
+86e465ec,35,Male,Hypertension,Neurology,Medication A,Stable,2023-07-27,2024-06-02,Yes
+46a79757,65,Other,Asthma,Orthopedics,Surgery Y,Improved,2024-01-08,2024-02-11,Yes
+b34472a5,43,Male,Heart Disease,Orthopedics,None,Deteriorated,2023-12-24,2024-07-18,Yes
+a8506541,33,Female,COPD,Cardiology,Medication A,Stable,2023-04-02,2024-10-27,Yes
+d7fb8f23,76,Other,COPD,General Medicine,Surgery Y,Stable,2023-01-12,2024-10-19,No
+0113e06b,57,Male,Diabetes,Orthopedics,Therapy X,Stable,2023-08-18,2024-08-10,Yes
+72aac9f8,29,Male,Diabetes,Neurology,Therapy X,Improved,2024-02-23,2024-06-17,Yes
+62612fd0,85,Other,Heart Disease,Oncology,Therapy X,Stable,2023-05-08,2024-05-29,No
+e953e286,43,Other,Hypertension,Orthopedics,Surgery Y,Improved,2023-07-06,2024-06-04,Yes
+48f5f79f,80,Male,Heart Disease,Orthopedics,Medication B,Improved,2024-12-08,2025-01-19,Yes
+5acf36df,55,Female,Heart Disease,Neurology,Medication B,Stable,2024-08-26,2024-12-20,Yes
+f8b2f131,87,Male,Diabetes,Cardiology,Therapy X,Improved,2023-07-09,2024-12-29,No
+0a254d32,33,Other,None,Oncology,None,Improved,2023-07-25,2024-12-05,No
+90dbd077,51,Other,Hypertension,Neurology,Medication B,Stable,2024-07-15,2024-08-24,Yes
+ba386128,80,Female,Diabetes,General Medicine,Therapy X,Improved,2024-11-15,2024-12-26,Yes
+a6f54db2,40,Female,Diabetes,Cardiology,None,Deteriorated,2024-07-27,2024-12-31,Yes
+25266522,32,Male,Heart Disease,General Medicine,Medication B,Improved,2024-11-22,2024-12-09,No
+c7d295e4,74,Other,Asthma,Neurology,Medication A,Deteriorated,2023-02-07,2024-09-17,Yes
+b26263b9,35,Other,Heart Disease,Neurology,Medication B,Improved,2024-11-04,2025-01-15,No
+65d8588d,87,Male,Diabetes,Neurology,Medication A,Stable,2023-01-20,2023-06-24,Yes
+b66394a7,34,Other,Diabetes,Orthopedics,Surgery Y,Stable,2023-11-04,2024-05-29,Yes
+a7fbf58e,23,Male,Diabetes,General Medicine,Surgery Y,Stable,2024-05-31,2024-06-05,No
+6896304d,51,Other,Hypertension,Cardiology,Medication B,Improved,2023-04-19,2023-10-25,Yes
+76d84661,66,Other,COPD,General Medicine,None,Improved,2023-09-02,2024-04-19,No
+4c079152,47,Female,None,General Medicine,Surgery Y,Improved,2023-07-26,2024-11-12,Yes
+8075fa4e,29,Male,COPD,Oncology,Therapy X,Stable,2023-09-10,2024-04-07,No
+5826729e,47,Female,None,Cardiology,Medication A,Deteriorated,2023-11-15,2024-10-06,Yes
+cb313247,36,Other,None,Neurology,Medication A,Deteriorated,2024-06-03,2025-01-09,No
+277221ad,41,Male,COPD,Neurology,Therapy X,Stable,2024-03-28,2025-01-11,No
+7682b195,45,Other,Heart Disease,Neurology,None,Improved,2024-08-21,2024-10-21,Yes
+fdb49ac8,89,Male,COPD,Neurology,Therapy X,Stable,2023-07-02,2024-12-01,No
+0e017eaf,84,Other,None,Oncology,Medication A,Improved,2023-12-29,2024-05-14,No
+0f6c6b9f,65,Other,None,Cardiology,Therapy X,Stable,2024-02-21,2025-01-19,No
+1a8380bc,82,Female,Heart Disease,Oncology,Surgery Y,Improved,2023-05-23,2024-04-26,Yes
+95a5ca89,63,Male,None,Cardiology,Surgery Y,Deteriorated,2023-12-24,2025-02-05,No
+89a476f7,57,Male,Diabetes,General Medicine,Therapy X,Stable,2024-04-16,2024-07-26,Yes
+1b7c197a,45,Male,Asthma,Neurology,Surgery Y,Deteriorated,2024-06-28,2025-01-10,No
+61ab245c,35,Female,Asthma,Cardiology,None,Deteriorated,2023-11-16,2024-01-21,Yes
+6f2511ac,21,Female,Hypertension,Cardiology,Therapy X,Deteriorated,2023-10-30,2024-02-14,No
+79e21a3b,32,Female,Diabetes,Oncology,Surgery Y,Stable,2024-06-28,2024-09-23,Yes
+ed12b4f5,77,Other,Heart Disease,General Medicine,Medication A,Deteriorated,2023-11-06,2024-08-29,No
+574bfc08,52,Male,Diabetes,Cardiology,None,Improved,2024-03-11,2024-11-29,No
+1db893aa,37,Male,Diabetes,General Medicine,Medication A,Stable,2024-05-27,2024-10-27,No
+808f8fe0,30,Male,None,General Medicine,Surgery Y,Stable,2024-10-08,2024-12-16,Yes
+eff10e24,18,Female,Heart Disease,General Medicine,Medication A,Deteriorated,2023-03-20,2024-08-04,Yes
+44b0064b,87,Male,Heart Disease,Neurology,Surgery Y,Improved,2023-11-12,2024-12-01,Yes
+198ada47,42,Other,COPD,Orthopedics,Medication A,Deteriorated,2023-12-13,2024-12-07,Yes
+bfe5007d,24,Male,Hypertension,Orthopedics,Medication B,Stable,2023-10-02,2024-04-23,Yes
+4ceb70a7,53,Other,COPD,Orthopedics,None,Deteriorated,2023-10-27,2024-12-20,No
+48f9e434,66,Male,Asthma,Orthopedics,None,Improved,2023-11-05,2024-03-02,Yes
+fe5af7f4,54,Other,Hypertension,Neurology,Therapy X,Stable,2024-05-27,2024-09-27,No
+b55ec164,51,Other,COPD,Cardiology,Surgery Y,Improved,2024-10-16,2024-12-08,Yes
+3.36E+07,51,Other,Diabetes,Cardiology,Medication A,Improved,2024-08-25,2024-10-02,Yes
+8a915e20,61,Female,Heart Disease,Orthopedics,None,Stable,2023-09-14,2023-10-21,Yes
+a2634a00,57,Male,COPD,Neurology,Therapy X,Stable,2024-05-29,2024-06-09,No
+36ffdbcb,58,Male,Hypertension,General Medicine,Medication A,Deteriorated,2023-06-18,2024-03-12,No
+dc310001,20,Male,None,Neurology,Medication A,Improved,2025-01-02,2025-01-24,No
+2264e20e,34,Other,Heart Disease,Neurology,Therapy X,Improved,2024-10-25,2024-11-05,No
+1fc9f0b3,18,Male,Diabetes,General Medicine,None,Stable,2024-01-25,2024-04-08,Yes
+8d4a04d3,41,Male,Diabetes,Orthopedics,Medication A,Improved,2023-05-15,2024-01-05,No
+56aa3e9f,19,Other,None,General Medicine,Surgery Y,Stable,2024-01-06,2024-08-02,No
+60cd797e,80,Male,COPD,Oncology,None,Deteriorated,2024-07-10,2024-12-07,No
+a5a1995c,81,Other,Hypertension,Neurology,Medication A,Improved,2023-01-17,2024-10-10,Yes
+40bb789a,83,Male,COPD,Neurology,Surgery Y,Stable,2023-02-11,2024-11-27,No
+6d8a44e5,21,Other,Asthma,Orthopedics,None,Stable,2024-12-26,2025-01-10,Yes
+8da8ff37,61,Female,Heart Disease,Neurology,None,Deteriorated,2024-12-26,2025-01-17,No
+97e9f49a,84,Male,Diabetes,Orthopedics,Medication B,Deteriorated,2023-09-08,2024-12-08,Yes
+6131704d,27,Other,Hypertension,General Medicine,Therapy X,Improved,2024-07-23,2024-10-15,Yes
+14afc3e3,82,Male,COPD,Oncology,Medication B,Deteriorated,2024-10-31,2024-12-02,Yes
+abb90d51,38,Female,None,Oncology,Therapy X,Stable,2024-10-25,2025-02-08,No
+22618200,64,Other,COPD,Neurology,Medication A,Deteriorated,2023-08-03,2024-12-05,No
+c48a47dc,45,Other,None,Cardiology,Medication A,Stable,2024-07-03,2024-10-03,No
+dd54fb4d,65,Female,Diabetes,Oncology,Medication B,Improved,2023-11-25,2024-12-07,No
+fc7d9f8c,59,Male,Diabetes,Cardiology,Surgery Y,Improved,2024-01-21,2025-01-04,Yes
+6b45992e,48,Female,Diabetes,Orthopedics,None,Improved,2024-01-10,2024-09-17,No
+f438af51,26,Female,COPD,Oncology,Medication B,Deteriorated,2023-08-25,2024-08-08,No
+5c3d7a64,79,Other,COPD,Oncology,Medication B,Improved,2023-10-07,2023-12-14,No
+55f66135,76,Female,COPD,Oncology,None,Deteriorated,2024-12-06,2024-12-25,No
+fb7df6f8,54,Other,Hypertension,General Medicine,Medication A,Improved,2024-02-13,2024-10-22,Yes
+7c1a23a8,65,Male,None,Oncology,Medication B,Improved,2024-08-14,2024-11-26,Yes
+306c65be,42,Male,None,General Medicine,Medication A,Stable,2023-09-30,2024-04-06,No
+82f7b0c4,59,Other,Heart Disease,Orthopedics,None,Stable,2024-09-02,2024-10-25,Yes
+9151a758,52,Male,Asthma,Cardiology,None,Deteriorated,2025-01-03,2025-01-17,Yes
+47ec22f0,49,Other,Diabetes,General Medicine,Therapy X,Stable,2024-07-30,2024-09-16,No
+93e0786c,58,Other,None,Oncology,Medication B,Stable,2023-12-31,2024-10-29,Yes
+cc7e3abf,48,Male,Heart Disease,General Medicine,Medication B,Deteriorated,2024-07-13,2024-07-19,Yes
+efd192aa,76,Male,COPD,Cardiology,Surgery Y,Improved,2023-06-04,2024-09-30,No
+3aa9b01d,72,Female,Heart Disease,General Medicine,None,Improved,2023-01-22,2024-07-29,Yes
+ee6ec823,52,Other,COPD,Orthopedics,None,Deteriorated,2023-06-07,2024-03-05,No
+9957cb84,56,Female,Hypertension,Neurology,Medication A,Stable,2023-08-19,2024-02-27,No
+7b02c28e,72,Other,Heart Disease,Oncology,Therapy X,Improved,2024-11-13,2024-11-14,No
+c8520ade,42,Other,Diabetes,Neurology,Surgery Y,Deteriorated,2023-08-22,2024-10-06,Yes
+17e8299f,79,Male,None,Orthopedics,Medication B,Deteriorated,2024-08-28,2024-10-16,No
+278e4980,22,Other,COPD,Cardiology,None,Improved,2024-08-02,2024-12-21,No
+0ccfb73a,48,Male,COPD,Oncology,Surgery Y,Stable,2023-08-07,2024-02-22,No
+f13968ba,40,Female,COPD,Cardiology,Medication B,Stable,2023-04-06,2024-05-21,No
+120ce98c,57,Male,Asthma,Neurology,Medication B,Improved,2023-01-29,2024-03-28,No
+4081d7c8,39,Female,COPD,Neurology,None,Stable,2023-09-16,2025-01-01,Yes
+20d3fed5,46,Female,Heart Disease,Neurology,None,Deteriorated,2023-03-02,2023-03-06,Yes
+0a46ebff,35,Female,Asthma,Neurology,Medication A,Deteriorated,2023-10-24,2024-10-20,No
+9a973ade,71,Other,Hypertension,Oncology,Surgery Y,Deteriorated,2023-07-07,2023-09-16,Yes
+a7060688,38,Other,Hypertension,General Medicine,Medication A,Stable,2024-11-10,2025-01-14,Yes
+a6448fbb,66,Other,Diabetes,Oncology,Medication B,Stable,2023-11-30,2024-05-15,Yes
+8a1cb49b,77,Male,None,Orthopedics,Surgery Y,Deteriorated,2023-07-06,2024-07-13,Yes
+a5757f96,75,Male,Heart Disease,Oncology,Medication A,Deteriorated,2023-09-27,2023-10-11,Yes
+d61e6569,83,Female,Hypertension,Neurology,Therapy X,Improved,2023-03-10,2024-08-15,No
+ad420913,52,Other,Heart Disease,Cardiology,Medication A,Deteriorated,2024-06-10,2024-12-10,Yes
+74e9824a,54,Male,Diabetes,Neurology,Medication A,Deteriorated,2023-06-14,2024-09-21,Yes
+00ffae8e,38,Other,Asthma,Oncology,Medication B,Improved,2024-09-11,2024-10-09,No
+8bcf9807,79,Female,Asthma,Orthopedics,Medication A,Improved,2023-05-06,2024-10-16,No
+280bec22,77,Other,None,General Medicine,Medication A,Improved,2023-12-19,2024-12-16,No
+19fc4187,34,Other,Diabetes,Cardiology,None,Deteriorated,2023-06-27,2024-01-29,No
+06a0b4ec,75,Other,Heart Disease,Cardiology,None,Deteriorated,2024-02-21,2025-01-11,No
+01cecdbb,51,Female,Diabetes,Cardiology,Medication A,Improved,2023-08-30,2024-09-17,Yes
+a0234e1b,40,Other,Asthma,General Medicine,Surgery Y,Deteriorated,2023-08-08,2024-01-31,Yes
+7680f965,31,Female,Heart Disease,Oncology,Medication A,Deteriorated,2023-08-24,2024-11-06,No
+8214e964,87,Female,Asthma,Orthopedics,Medication B,Stable,2023-11-11,2024-08-13,No
+97fd7372,54,Male,Asthma,Orthopedics,None,Deteriorated,2024-10-08,2024-10-22,Yes
+49bd25b2,78,Female,Hypertension,Neurology,Medication B,Stable,2023-12-11,2024-04-16,Yes
+bd9fed43,62,Female,Asthma,Orthopedics,None,Deteriorated,2023-06-05,2024-08-26,No
+8afdd07b,46,Male,COPD,Neurology,Medication A,Stable,2023-10-20,2024-11-25,Yes
+c2b80bbb,74,Female,None,Cardiology,Surgery Y,Stable,2024-06-01,2024-09-22,No
+51808cc5,75,Other,Diabetes,Orthopedics,None,Stable,2023-06-27,2023-12-10,Yes
+5baa5ce4,31,Other,COPD,Cardiology,Therapy X,Deteriorated,2023-05-19,2023-07-16,No
+a57eb46e,75,Male,Asthma,General Medicine,None,Improved,2024-12-05,2025-01-01,Yes
+894323ce,74,Female,Heart Disease,Neurology,Medication A,Stable,2024-04-25,2024-09-04,No
