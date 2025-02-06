@@ -73,7 +73,7 @@ print(f"Readmission Rate: {readmission_rate:.2f}%")
 avg_los = data['LengthOfStay'].mean()
 print(f"Average Length of Stay: {avg_los:.2f} days")
 
-# Step 6: Correlation Analysis
+# Step 6:  Correlation Analysis
 # Correlation Heatmap
 correlation_matrix = data[['Age', 'LengthOfStay']].corr()
 sns.heatmap(correlation_matrix, annot=True, cmap='Blues')
